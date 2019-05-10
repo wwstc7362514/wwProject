@@ -1,0 +1,1153 @@
+2019-05-07 10:15:44,695 - INFO - server1.py - <module> - 10 - [ abc_bank 服务已启动 ]
+2019-05-07 10:15:44,698 - INFO - server1.py - del_timeout_user - 31 - [ 监控异常登陆线程 <Thread(Thread-1, started 11016)> start ]
+2019-05-07 10:16:13,859 - INFO - server1.py - <module> - 10 - [ abc_bank 服务已启动 ]
+2019-05-07 10:16:13,860 - INFO - server1.py - del_timeout_user - 31 - [ 监控异常登陆线程 <Thread(Thread-1, started 16716)> start ]
+2019-05-07 10:16:48,957 - INFO - server1.py - <module> - 10 - [ abc_bank 服务已启动 ]
+2019-05-07 10:16:48,958 - INFO - server1.py - del_timeout_user - 31 - [ 监控异常登陆线程 <Thread(Thread-1, started 15320)> start ]
+2019-05-07 10:17:50,844 - INFO - server1.py - <module> - 10 - [ abc_bank 服务已启动 ]
+2019-05-07 10:17:50,851 - INFO - server1.py - del_timeout_user - 31 - [ 监控异常登陆线程 <Thread(Thread-1, started 10464)> start ]
+2019-05-07 10:18:31,650 - INFO - server1.py - abc_bank - 97 - [ abc {'username': '15295240290', 'password': 'zy120928', 'messagecode': '', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 10:18:31,650 - INFO - server1.py - abc_bank - 154 - ['用户: 15295240290  IP 地址: 127.0.0.1']
+2019-05-07 10:18:31,651 - INFO - server1.py - abc_bank - 155 - ['User-Agent: PostmanRuntime/7.11.0']
+2019-05-07 10:18:39,853 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 10:18:40,624 - INFO - server1.py - abc_bank - 163 - [ 返回图片验证码用时:8.974159240722656 ]
+2019-05-07 10:18:45,150 - INFO - server1.py - abc_bank - 97 - [ abc {'username': '15295240290', 'password': 'zy120928', 'messagecode': '', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 10:18:45,150 - INFO - server1.py - abc_bank - 154 - ['用户: 15295240290  IP 地址: 127.0.0.1']
+2019-05-07 10:18:45,151 - INFO - server1.py - abc_bank - 155 - ['User-Agent: PostmanRuntime/7.11.0']
+2019-05-07 10:18:51,972 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 10:18:52,481 - INFO - server1.py - abc_bank - 163 - [ 返回图片验证码用时:7.330509185791016 ]
+2019-05-07 10:18:59,547 - INFO - server1.py - abc_bank - 97 - [ abc {'username': '15295240290', 'password': 'zy120928', 'messagecode': '', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 10:18:59,547 - INFO - server1.py - abc_bank - 154 - ['用户: 15295240290  IP 地址: 127.0.0.1']
+2019-05-07 10:18:59,548 - INFO - server1.py - abc_bank - 155 - ['User-Agent: PostmanRuntime/7.11.0']
+2019-05-07 10:19:06,942 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 10:19:08,082 - INFO - server1.py - abc_bank - 163 - [ 返回图片验证码用时:8.534807443618774 ]
+2019-05-07 10:19:47,616 - INFO - server1.py - <module> - 10 - [ abc_bank 服务已启动 ]
+2019-05-07 10:19:47,617 - INFO - server1.py - del_timeout_user - 31 - [ 监控异常登陆线程 <Thread(Thread-1, started 9508)> start ]
+2019-05-07 10:44:22,331 - INFO - server1.py - <module> - 10 - [ abc_bank 服务已启动 ]
+2019-05-07 10:44:22,332 - INFO - server1.py - del_timeout_user - 31 - [ 监控异常登陆线程 <Thread(Thread-1, started 17400)> start ]
+2019-05-07 10:44:31,598 - INFO - server1.py - abc_bank - 97 - [ abc {'username': '15295240290', 'password': 'zy120928', 'messagecode': '', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 10:44:31,598 - INFO - server1.py - abc_bank - 154 - ['用户: 15295240290  IP 地址: 127.0.0.1']
+2019-05-07 10:44:31,598 - INFO - server1.py - abc_bank - 155 - ['User-Agent: PostmanRuntime/7.11.0']
+2019-05-07 10:44:39,390 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 10:44:40,131 - INFO - server1.py - abc_bank - 163 - [ 返回图片验证码用时:8.53409743309021 ]
+2019-05-07 10:44:47,799 - INFO - server1.py - abc_bank - 97 - [ abc {'username': '15295240290', 'password': 'zy120928', 'messagecode': 'vqkc', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 10:44:47,799 - INFO - abc_bank.py - login - 104 - [ 开始登陆 ]
+2019-05-07 10:45:03,212 - INFO - abc_bank.py - data_db - 243 - [ 开始提取数据 ]
+2019-05-07 10:45:06,552 - INFO - server1.py - abc_bank - 97 - [ abc {'username': '17095118656', 'password': '10221408', 'messagecode': '', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 10:45:06,552 - INFO - server1.py - abc_bank - 154 - ['用户: 17095118656  IP 地址: 127.0.0.1']
+2019-05-07 10:45:06,553 - INFO - server1.py - abc_bank - 155 - ['User-Agent: PostmanRuntime/7.11.0']
+2019-05-07 10:45:09,501 - INFO - abc_bank.py - get_person_info - 558 - [ 获取个人详情页信息 ]
+2019-05-07 10:45:09,519 - INFO - abc_bank.py - card_info - 490 - [ 获取当月账单信息 ]
+2019-05-07 10:45:11,902 - ERROR - server1.py - abc_bank - 147 - [ error ]15295240290
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 125, in abc_bank
+    rtn = g.login(user, pwd, mc)
+  File "D:\py-project\abc_bank\abc_bank.py", line 180, in login
+    return self.data_db(user)
+  File "D:\py-project\abc_bank\abc_bank.py", line 301, in data_db
+    info = self.card_info(info,user)
+  File "D:\py-project\abc_bank\abc_bank.py", line 497, in card_info
+    card_select_btn.click()
+  File "C:\Users\user\Envs\my_test\lib\site-packages\selenium\webdriver\remote\webelement.py", line 80, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\Users\user\Envs\my_test\lib\site-packages\selenium\webdriver\remote\webelement.py", line 633, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Users\user\Envs\my_test\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\user\Envs\my_test\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotInteractableException: Message: Cannot click on element
+
+2019-05-07 10:45:14,183 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 10:45:15,493 - INFO - server1.py - abc_bank - 163 - [ 返回图片验证码用时:8.941185235977173 ]
+2019-05-07 10:45:21,695 - INFO - server1.py - abc_bank - 97 - [ abc {'username': '17095118656', 'password': '10221408', 'messagecode': 'lacn', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 10:45:21,696 - INFO - abc_bank.py - login - 104 - [ 开始登陆 ]
+2019-05-07 10:45:22,337 - ERROR - server1.py - del_timeout_user - 56 - [ error 监控模块异常 'abc|15295240290']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 38, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|15295240290'
+2019-05-07 10:45:22,337 - INFO - server1.py - del_timeout_user - 57 - [ cache:{'abc|17095118656': (<abc_bank.Abc_bank object at 0x0000023B18CDB240>, 1557197111.6345823)}  cache_list:[{'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x0000023B1A13D9E8>, 't1': 1557197077.1924877, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x0000023B18CDB240>, 't1': 1557197111.6345823, 'ip': '127.0.0.1'}] ]
+2019-05-07 10:45:27,825 - INFO - abc_bank.py - login - 143 - [ 图形验证码错误，重新截图 ]
+2019-05-07 10:45:27,826 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 10:45:28,541 - INFO - server1.py - abc_bank - 144 - [ 返回数据用时:6.845748662948608 {'code': '4', 'message': '图形验证码错误，重新输入', 'img': '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'} ]
+2019-05-07 10:45:37,338 - ERROR - server1.py - del_timeout_user - 56 - [ error 监控模块异常 'abc|15295240290']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 38, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|15295240290'
+2019-05-07 10:45:37,338 - INFO - server1.py - del_timeout_user - 57 - [ cache:{'abc|17095118656': (<abc_bank.Abc_bank object at 0x0000023B18CDB240>, 1557197111.6345823)}  cache_list:[{'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x0000023B1A13D9E8>, 't1': 1557197077.1924877, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x0000023B18CDB240>, 't1': 1557197111.6345823, 'ip': '127.0.0.1'}] ]
+2019-05-07 10:45:52,340 - ERROR - server1.py - del_timeout_user - 56 - [ error 监控模块异常 'abc|15295240290']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 38, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|15295240290'
+2019-05-07 10:45:52,341 - INFO - server1.py - del_timeout_user - 57 - [ cache:{'abc|17095118656': (<abc_bank.Abc_bank object at 0x0000023B18CDB240>, 1557197111.6345823)}  cache_list:[{'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x0000023B1A13D9E8>, 't1': 1557197077.1924877, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x0000023B18CDB240>, 't1': 1557197111.6345823, 'ip': '127.0.0.1'}] ]
+2019-05-07 10:46:07,342 - ERROR - server1.py - del_timeout_user - 56 - [ error 监控模块异常 'abc|15295240290']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 38, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|15295240290'
+2019-05-07 10:46:07,342 - INFO - server1.py - del_timeout_user - 57 - [ cache:{'abc|17095118656': (<abc_bank.Abc_bank object at 0x0000023B18CDB240>, 1557197111.6345823)}  cache_list:[{'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x0000023B1A13D9E8>, 't1': 1557197077.1924877, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x0000023B18CDB240>, 't1': 1557197111.6345823, 'ip': '127.0.0.1'}] ]
+2019-05-07 10:46:22,343 - ERROR - server1.py - del_timeout_user - 56 - [ error 监控模块异常 'abc|15295240290']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 38, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|15295240290'
+2019-05-07 10:46:22,343 - INFO - server1.py - del_timeout_user - 57 - [ cache:{'abc|17095118656': (<abc_bank.Abc_bank object at 0x0000023B18CDB240>, 1557197111.6345823)}  cache_list:[{'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x0000023B1A13D9E8>, 't1': 1557197077.1924877, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x0000023B18CDB240>, 't1': 1557197111.6345823, 'ip': '127.0.0.1'}] ]
+2019-05-07 10:46:37,344 - ERROR - server1.py - del_timeout_user - 56 - [ error 监控模块异常 'abc|15295240290']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 38, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|15295240290'
+2019-05-07 10:46:37,345 - INFO - server1.py - del_timeout_user - 57 - [ cache:{'abc|17095118656': (<abc_bank.Abc_bank object at 0x0000023B18CDB240>, 1557197111.6345823)}  cache_list:[{'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x0000023B1A13D9E8>, 't1': 1557197077.1924877, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x0000023B18CDB240>, 't1': 1557197111.6345823, 'ip': '127.0.0.1'}] ]
+2019-05-07 10:46:52,347 - ERROR - server1.py - del_timeout_user - 56 - [ error 监控模块异常 'abc|15295240290']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 38, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|15295240290'
+2019-05-07 10:46:52,349 - INFO - server1.py - del_timeout_user - 57 - [ cache:{'abc|17095118656': (<abc_bank.Abc_bank object at 0x0000023B18CDB240>, 1557197111.6345823)}  cache_list:[{'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x0000023B1A13D9E8>, 't1': 1557197077.1924877, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x0000023B18CDB240>, 't1': 1557197111.6345823, 'ip': '127.0.0.1'}] ]
+2019-05-07 10:47:07,350 - ERROR - server1.py - del_timeout_user - 56 - [ error 监控模块异常 'abc|15295240290']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 38, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|15295240290'
+2019-05-07 10:47:07,351 - INFO - server1.py - del_timeout_user - 57 - [ cache:{'abc|17095118656': (<abc_bank.Abc_bank object at 0x0000023B18CDB240>, 1557197111.6345823)}  cache_list:[{'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x0000023B1A13D9E8>, 't1': 1557197077.1924877, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x0000023B18CDB240>, 't1': 1557197111.6345823, 'ip': '127.0.0.1'}] ]
+2019-05-07 10:47:22,352 - ERROR - server1.py - del_timeout_user - 56 - [ error 监控模块异常 'abc|15295240290']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 38, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|15295240290'
+2019-05-07 10:47:22,355 - INFO - server1.py - del_timeout_user - 57 - [ cache:{'abc|17095118656': (<abc_bank.Abc_bank object at 0x0000023B18CDB240>, 1557197111.6345823)}  cache_list:[{'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x0000023B1A13D9E8>, 't1': 1557197077.1924877, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x0000023B18CDB240>, 't1': 1557197111.6345823, 'ip': '127.0.0.1'}] ]
+2019-05-07 10:47:37,360 - ERROR - server1.py - del_timeout_user - 56 - [ error 监控模块异常 'abc|15295240290']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 38, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|15295240290'
+2019-05-07 10:47:37,360 - INFO - server1.py - del_timeout_user - 57 - [ cache:{'abc|17095118656': (<abc_bank.Abc_bank object at 0x0000023B18CDB240>, 1557197111.6345823)}  cache_list:[{'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x0000023B1A13D9E8>, 't1': 1557197077.1924877, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x0000023B18CDB240>, 't1': 1557197111.6345823, 'ip': '127.0.0.1'}] ]
+2019-05-07 10:47:52,362 - ERROR - server1.py - del_timeout_user - 56 - [ error 监控模块异常 'abc|15295240290']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 38, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|15295240290'
+2019-05-07 10:47:52,362 - INFO - server1.py - del_timeout_user - 57 - [ cache:{'abc|17095118656': (<abc_bank.Abc_bank object at 0x0000023B18CDB240>, 1557197111.6345823)}  cache_list:[{'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x0000023B1A13D9E8>, 't1': 1557197077.1924877, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x0000023B18CDB240>, 't1': 1557197111.6345823, 'ip': '127.0.0.1'}] ]
+2019-05-07 10:48:07,363 - ERROR - server1.py - del_timeout_user - 56 - [ error 监控模块异常 'abc|15295240290']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 38, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|15295240290'
+2019-05-07 10:48:07,365 - INFO - server1.py - del_timeout_user - 57 - [ cache:{'abc|17095118656': (<abc_bank.Abc_bank object at 0x0000023B18CDB240>, 1557197111.6345823)}  cache_list:[{'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x0000023B1A13D9E8>, 't1': 1557197077.1924877, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x0000023B18CDB240>, 't1': 1557197111.6345823, 'ip': '127.0.0.1'}] ]
+2019-05-07 10:48:22,366 - ERROR - server1.py - del_timeout_user - 56 - [ error 监控模块异常 'abc|15295240290']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 38, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|15295240290'
+2019-05-07 10:48:22,368 - INFO - server1.py - del_timeout_user - 57 - [ cache:{'abc|17095118656': (<abc_bank.Abc_bank object at 0x0000023B18CDB240>, 1557197111.6345823)}  cache_list:[{'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x0000023B1A13D9E8>, 't1': 1557197077.1924877, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x0000023B18CDB240>, 't1': 1557197111.6345823, 'ip': '127.0.0.1'}] ]
+2019-05-07 10:48:37,375 - ERROR - server1.py - del_timeout_user - 56 - [ error 监控模块异常 'abc|15295240290']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 38, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|15295240290'
+2019-05-07 10:48:37,376 - INFO - server1.py - del_timeout_user - 57 - [ cache:{'abc|17095118656': (<abc_bank.Abc_bank object at 0x0000023B18CDB240>, 1557197111.6345823)}  cache_list:[{'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x0000023B1A13D9E8>, 't1': 1557197077.1924877, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x0000023B18CDB240>, 't1': 1557197111.6345823, 'ip': '127.0.0.1'}] ]
+2019-05-07 10:48:52,378 - ERROR - server1.py - del_timeout_user - 56 - [ error 监控模块异常 'abc|15295240290']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 38, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|15295240290'
+2019-05-07 10:48:52,379 - INFO - server1.py - del_timeout_user - 57 - [ cache:{'abc|17095118656': (<abc_bank.Abc_bank object at 0x0000023B18CDB240>, 1557197111.6345823)}  cache_list:[{'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x0000023B1A13D9E8>, 't1': 1557197077.1924877, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x0000023B18CDB240>, 't1': 1557197111.6345823, 'ip': '127.0.0.1'}] ]
+2019-05-07 10:49:07,379 - ERROR - server1.py - del_timeout_user - 56 - [ error 监控模块异常 'abc|15295240290']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 38, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|15295240290'
+2019-05-07 10:49:07,380 - INFO - server1.py - del_timeout_user - 57 - [ cache:{'abc|17095118656': (<abc_bank.Abc_bank object at 0x0000023B18CDB240>, 1557197111.6345823)}  cache_list:[{'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x0000023B1A13D9E8>, 't1': 1557197077.1924877, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x0000023B18CDB240>, 't1': 1557197111.6345823, 'ip': '127.0.0.1'}] ]
+2019-05-07 10:49:22,397 - ERROR - server1.py - del_timeout_user - 56 - [ error 监控模块异常 'abc|15295240290']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 38, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|15295240290'
+2019-05-07 10:49:22,398 - INFO - server1.py - del_timeout_user - 57 - [ cache:{'abc|17095118656': (<abc_bank.Abc_bank object at 0x0000023B18CDB240>, 1557197111.6345823)}  cache_list:[{'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x0000023B1A13D9E8>, 't1': 1557197077.1924877, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x0000023B18CDB240>, 't1': 1557197111.6345823, 'ip': '127.0.0.1'}] ]
+2019-05-07 10:49:37,399 - ERROR - server1.py - del_timeout_user - 56 - [ error 监控模块异常 'abc|15295240290']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 38, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|15295240290'
+2019-05-07 10:49:37,401 - INFO - server1.py - del_timeout_user - 57 - [ cache:{'abc|17095118656': (<abc_bank.Abc_bank object at 0x0000023B18CDB240>, 1557197111.6345823)}  cache_list:[{'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x0000023B1A13D9E8>, 't1': 1557197077.1924877, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x0000023B18CDB240>, 't1': 1557197111.6345823, 'ip': '127.0.0.1'}] ]
+2019-05-07 10:49:52,403 - ERROR - server1.py - del_timeout_user - 56 - [ error 监控模块异常 'abc|15295240290']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 38, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|15295240290'
+2019-05-07 10:49:52,403 - INFO - server1.py - del_timeout_user - 57 - [ cache:{'abc|17095118656': (<abc_bank.Abc_bank object at 0x0000023B18CDB240>, 1557197111.6345823)}  cache_list:[{'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x0000023B1A13D9E8>, 't1': 1557197077.1924877, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x0000023B18CDB240>, 't1': 1557197111.6345823, 'ip': '127.0.0.1'}] ]
+2019-05-07 10:50:07,404 - ERROR - server1.py - del_timeout_user - 56 - [ error 监控模块异常 'abc|15295240290']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 38, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|15295240290'
+2019-05-07 10:50:07,404 - INFO - server1.py - del_timeout_user - 57 - [ cache:{'abc|17095118656': (<abc_bank.Abc_bank object at 0x0000023B18CDB240>, 1557197111.6345823)}  cache_list:[{'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x0000023B1A13D9E8>, 't1': 1557197077.1924877, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x0000023B18CDB240>, 't1': 1557197111.6345823, 'ip': '127.0.0.1'}] ]
+2019-05-07 10:50:22,406 - ERROR - server1.py - del_timeout_user - 56 - [ error 监控模块异常 'abc|15295240290']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 38, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|15295240290'
+2019-05-07 10:50:22,407 - INFO - server1.py - del_timeout_user - 57 - [ cache:{'abc|17095118656': (<abc_bank.Abc_bank object at 0x0000023B18CDB240>, 1557197111.6345823)}  cache_list:[{'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x0000023B1A13D9E8>, 't1': 1557197077.1924877, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x0000023B18CDB240>, 't1': 1557197111.6345823, 'ip': '127.0.0.1'}] ]
+2019-05-07 10:50:37,408 - ERROR - server1.py - del_timeout_user - 56 - [ error 监控模块异常 'abc|15295240290']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 38, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|15295240290'
+2019-05-07 10:50:37,409 - INFO - server1.py - del_timeout_user - 57 - [ cache:{'abc|17095118656': (<abc_bank.Abc_bank object at 0x0000023B18CDB240>, 1557197111.6345823)}  cache_list:[{'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x0000023B1A13D9E8>, 't1': 1557197077.1924877, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x0000023B18CDB240>, 't1': 1557197111.6345823, 'ip': '127.0.0.1'}] ]
+2019-05-07 10:50:52,411 - ERROR - server1.py - del_timeout_user - 56 - [ error 监控模块异常 'abc|15295240290']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 38, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|15295240290'
+2019-05-07 10:50:52,411 - INFO - server1.py - del_timeout_user - 57 - [ cache:{'abc|17095118656': (<abc_bank.Abc_bank object at 0x0000023B18CDB240>, 1557197111.6345823)}  cache_list:[{'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x0000023B1A13D9E8>, 't1': 1557197077.1924877, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x0000023B18CDB240>, 't1': 1557197111.6345823, 'ip': '127.0.0.1'}] ]
+2019-05-07 10:51:07,412 - ERROR - server1.py - del_timeout_user - 56 - [ error 监控模块异常 'abc|15295240290']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 38, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|15295240290'
+2019-05-07 10:51:07,413 - INFO - server1.py - del_timeout_user - 57 - [ cache:{'abc|17095118656': (<abc_bank.Abc_bank object at 0x0000023B18CDB240>, 1557197111.6345823)}  cache_list:[{'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x0000023B1A13D9E8>, 't1': 1557197077.1924877, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x0000023B18CDB240>, 't1': 1557197111.6345823, 'ip': '127.0.0.1'}] ]
+2019-05-07 10:51:22,415 - ERROR - server1.py - del_timeout_user - 56 - [ error 监控模块异常 'abc|15295240290']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 38, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|15295240290'
+2019-05-07 10:51:22,415 - INFO - server1.py - del_timeout_user - 57 - [ cache:{'abc|17095118656': (<abc_bank.Abc_bank object at 0x0000023B18CDB240>, 1557197111.6345823)}  cache_list:[{'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x0000023B1A13D9E8>, 't1': 1557197077.1924877, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x0000023B18CDB240>, 't1': 1557197111.6345823, 'ip': '127.0.0.1'}] ]
+2019-05-07 10:51:37,417 - ERROR - server1.py - del_timeout_user - 56 - [ error 监控模块异常 'abc|15295240290']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 38, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|15295240290'
+2019-05-07 10:51:37,419 - INFO - server1.py - del_timeout_user - 57 - [ cache:{'abc|17095118656': (<abc_bank.Abc_bank object at 0x0000023B18CDB240>, 1557197111.6345823)}  cache_list:[{'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x0000023B1A13D9E8>, 't1': 1557197077.1924877, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x0000023B18CDB240>, 't1': 1557197111.6345823, 'ip': '127.0.0.1'}] ]
+2019-05-07 10:51:52,422 - ERROR - server1.py - del_timeout_user - 56 - [ error 监控模块异常 'abc|15295240290']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 38, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|15295240290'
+2019-05-07 10:51:52,422 - INFO - server1.py - del_timeout_user - 57 - [ cache:{'abc|17095118656': (<abc_bank.Abc_bank object at 0x0000023B18CDB240>, 1557197111.6345823)}  cache_list:[{'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x0000023B1A13D9E8>, 't1': 1557197077.1924877, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x0000023B18CDB240>, 't1': 1557197111.6345823, 'ip': '127.0.0.1'}] ]
+2019-05-07 10:52:07,423 - ERROR - server1.py - del_timeout_user - 56 - [ error 监控模块异常 'abc|15295240290']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 38, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|15295240290'
+2019-05-07 10:52:07,424 - INFO - server1.py - del_timeout_user - 57 - [ cache:{'abc|17095118656': (<abc_bank.Abc_bank object at 0x0000023B18CDB240>, 1557197111.6345823)}  cache_list:[{'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x0000023B1A13D9E8>, 't1': 1557197077.1924877, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x0000023B18CDB240>, 't1': 1557197111.6345823, 'ip': '127.0.0.1'}] ]
+2019-05-07 10:52:22,427 - ERROR - server1.py - del_timeout_user - 56 - [ error 监控模块异常 'abc|15295240290']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 38, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|15295240290'
+2019-05-07 10:52:22,429 - INFO - server1.py - del_timeout_user - 57 - [ cache:{'abc|17095118656': (<abc_bank.Abc_bank object at 0x0000023B18CDB240>, 1557197111.6345823)}  cache_list:[{'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x0000023B1A13D9E8>, 't1': 1557197077.1924877, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x0000023B18CDB240>, 't1': 1557197111.6345823, 'ip': '127.0.0.1'}] ]
+2019-05-07 10:52:37,430 - ERROR - server1.py - del_timeout_user - 56 - [ error 监控模块异常 'abc|15295240290']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 38, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|15295240290'
+2019-05-07 10:52:37,430 - INFO - server1.py - del_timeout_user - 57 - [ cache:{'abc|17095118656': (<abc_bank.Abc_bank object at 0x0000023B18CDB240>, 1557197111.6345823)}  cache_list:[{'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x0000023B1A13D9E8>, 't1': 1557197077.1924877, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x0000023B18CDB240>, 't1': 1557197111.6345823, 'ip': '127.0.0.1'}] ]
+2019-05-07 10:52:52,431 - ERROR - server1.py - del_timeout_user - 56 - [ error 监控模块异常 'abc|15295240290']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 38, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|15295240290'
+2019-05-07 10:52:52,432 - INFO - server1.py - del_timeout_user - 57 - [ cache:{'abc|17095118656': (<abc_bank.Abc_bank object at 0x0000023B18CDB240>, 1557197111.6345823)}  cache_list:[{'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x0000023B1A13D9E8>, 't1': 1557197077.1924877, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x0000023B18CDB240>, 't1': 1557197111.6345823, 'ip': '127.0.0.1'}] ]
+2019-05-07 10:53:07,433 - ERROR - server1.py - del_timeout_user - 56 - [ error 监控模块异常 'abc|15295240290']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 38, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|15295240290'
+2019-05-07 10:53:07,433 - INFO - server1.py - del_timeout_user - 57 - [ cache:{'abc|17095118656': (<abc_bank.Abc_bank object at 0x0000023B18CDB240>, 1557197111.6345823)}  cache_list:[{'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x0000023B1A13D9E8>, 't1': 1557197077.1924877, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x0000023B18CDB240>, 't1': 1557197111.6345823, 'ip': '127.0.0.1'}] ]
+2019-05-07 10:53:22,435 - ERROR - server1.py - del_timeout_user - 56 - [ error 监控模块异常 'abc|15295240290']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 38, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|15295240290'
+2019-05-07 10:53:22,436 - INFO - server1.py - del_timeout_user - 57 - [ cache:{'abc|17095118656': (<abc_bank.Abc_bank object at 0x0000023B18CDB240>, 1557197111.6345823)}  cache_list:[{'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x0000023B1A13D9E8>, 't1': 1557197077.1924877, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x0000023B18CDB240>, 't1': 1557197111.6345823, 'ip': '127.0.0.1'}] ]
+2019-05-07 10:53:37,438 - ERROR - server1.py - del_timeout_user - 56 - [ error 监控模块异常 'abc|15295240290']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 38, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|15295240290'
+2019-05-07 10:53:37,440 - INFO - server1.py - del_timeout_user - 57 - [ cache:{'abc|17095118656': (<abc_bank.Abc_bank object at 0x0000023B18CDB240>, 1557197111.6345823)}  cache_list:[{'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x0000023B1A13D9E8>, 't1': 1557197077.1924877, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x0000023B18CDB240>, 't1': 1557197111.6345823, 'ip': '127.0.0.1'}] ]
+2019-05-07 10:53:52,441 - ERROR - server1.py - del_timeout_user - 56 - [ error 监控模块异常 'abc|15295240290']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 38, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|15295240290'
+2019-05-07 10:53:52,442 - INFO - server1.py - del_timeout_user - 57 - [ cache:{'abc|17095118656': (<abc_bank.Abc_bank object at 0x0000023B18CDB240>, 1557197111.6345823)}  cache_list:[{'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x0000023B1A13D9E8>, 't1': 1557197077.1924877, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x0000023B18CDB240>, 't1': 1557197111.6345823, 'ip': '127.0.0.1'}] ]
+2019-05-07 10:54:07,444 - ERROR - server1.py - del_timeout_user - 56 - [ error 监控模块异常 'abc|15295240290']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 38, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|15295240290'
+2019-05-07 10:54:07,445 - INFO - server1.py - del_timeout_user - 57 - [ cache:{'abc|17095118656': (<abc_bank.Abc_bank object at 0x0000023B18CDB240>, 1557197111.6345823)}  cache_list:[{'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x0000023B1A13D9E8>, 't1': 1557197077.1924877, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x0000023B18CDB240>, 't1': 1557197111.6345823, 'ip': '127.0.0.1'}] ]
+2019-05-07 10:54:22,446 - ERROR - server1.py - del_timeout_user - 56 - [ error 监控模块异常 'abc|15295240290']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 38, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|15295240290'
+2019-05-07 10:54:22,446 - INFO - server1.py - del_timeout_user - 57 - [ cache:{'abc|17095118656': (<abc_bank.Abc_bank object at 0x0000023B18CDB240>, 1557197111.6345823)}  cache_list:[{'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x0000023B1A13D9E8>, 't1': 1557197077.1924877, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x0000023B18CDB240>, 't1': 1557197111.6345823, 'ip': '127.0.0.1'}] ]
+2019-05-07 10:54:37,447 - ERROR - server1.py - del_timeout_user - 56 - [ error 监控模块异常 'abc|15295240290']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 38, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|15295240290'
+2019-05-07 10:54:37,451 - INFO - server1.py - del_timeout_user - 57 - [ cache:{'abc|17095118656': (<abc_bank.Abc_bank object at 0x0000023B18CDB240>, 1557197111.6345823)}  cache_list:[{'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x0000023B1A13D9E8>, 't1': 1557197077.1924877, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x0000023B18CDB240>, 't1': 1557197111.6345823, 'ip': '127.0.0.1'}] ]
+2019-05-07 10:54:52,455 - ERROR - server1.py - del_timeout_user - 56 - [ error 监控模块异常 'abc|15295240290']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 38, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|15295240290'
+2019-05-07 10:54:52,455 - INFO - server1.py - del_timeout_user - 57 - [ cache:{'abc|17095118656': (<abc_bank.Abc_bank object at 0x0000023B18CDB240>, 1557197111.6345823)}  cache_list:[{'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x0000023B1A13D9E8>, 't1': 1557197077.1924877, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x0000023B18CDB240>, 't1': 1557197111.6345823, 'ip': '127.0.0.1'}] ]
+2019-05-07 10:55:07,456 - ERROR - server1.py - del_timeout_user - 56 - [ error 监控模块异常 'abc|15295240290']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 38, in del_timeout_user
+    if cache != {}:
+KeyError: 'abc|15295240290'
+2019-05-07 10:55:07,456 - INFO - server1.py - del_timeout_user - 57 - [ cache:{'abc|17095118656': (<abc_bank.Abc_bank object at 0x0000023B18CDB240>, 1557197111.6345823)}  cache_list:[{'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x0000023B1A13D9E8>, 't1': 1557197077.1924877, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x0000023B18CDB240>, 't1': 1557197111.6345823, 'ip': '127.0.0.1'}] ]
+2019-05-07 10:55:22,458 - ERROR - server1.py - del_timeout_user - 56 - [ error 监控模块异常 'abc|15295240290']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 38, in del_timeout_user
+    if cache != {}:
+KeyError: 'abc|15295240290'
+2019-05-07 10:55:22,460 - INFO - server1.py - del_timeout_user - 57 - [ cache:{'abc|17095118656': (<abc_bank.Abc_bank object at 0x0000023B18CDB240>, 1557197111.6345823)}  cache_list:[{'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x0000023B1A13D9E8>, 't1': 1557197077.1924877, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x0000023B18CDB240>, 't1': 1557197111.6345823, 'ip': '127.0.0.1'}] ]
+2019-05-07 10:55:37,462 - ERROR - server1.py - del_timeout_user - 56 - [ error 监控模块异常 'abc|15295240290']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 38, in del_timeout_user
+    if cache != {}:
+KeyError: 'abc|15295240290'
+2019-05-07 10:55:37,463 - INFO - server1.py - del_timeout_user - 57 - [ cache:{'abc|17095118656': (<abc_bank.Abc_bank object at 0x0000023B18CDB240>, 1557197111.6345823)}  cache_list:[{'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x0000023B1A13D9E8>, 't1': 1557197077.1924877, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x0000023B18CDB240>, 't1': 1557197111.6345823, 'ip': '127.0.0.1'}] ]
+2019-05-07 10:55:52,465 - ERROR - server1.py - del_timeout_user - 56 - [ error 监控模块异常 'abc|15295240290']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 38, in del_timeout_user
+    if cache != {}:
+KeyError: 'abc|15295240290'
+2019-05-07 10:55:52,468 - INFO - server1.py - del_timeout_user - 57 - [ cache:{'abc|17095118656': (<abc_bank.Abc_bank object at 0x0000023B18CDB240>, 1557197111.6345823)}  cache_list:[{'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x0000023B1A13D9E8>, 't1': 1557197077.1924877, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x0000023B18CDB240>, 't1': 1557197111.6345823, 'ip': '127.0.0.1'}] ]
+2019-05-07 10:56:07,469 - ERROR - server1.py - del_timeout_user - 56 - [ error 监控模块异常 'abc|15295240290']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 38, in del_timeout_user
+    if cache != {}:
+KeyError: 'abc|15295240290'
+2019-05-07 10:56:07,469 - INFO - server1.py - del_timeout_user - 57 - [ cache:{'abc|17095118656': (<abc_bank.Abc_bank object at 0x0000023B18CDB240>, 1557197111.6345823)}  cache_list:[{'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x0000023B1A13D9E8>, 't1': 1557197077.1924877, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x0000023B18CDB240>, 't1': 1557197111.6345823, 'ip': '127.0.0.1'}] ]
+2019-05-07 10:56:22,471 - ERROR - server1.py - del_timeout_user - 56 - [ error 监控模块异常 'abc|15295240290']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 38, in del_timeout_user
+    if cache != {}:
+KeyError: 'abc|15295240290'
+2019-05-07 10:56:22,472 - INFO - server1.py - del_timeout_user - 57 - [ cache:{'abc|17095118656': (<abc_bank.Abc_bank object at 0x0000023B18CDB240>, 1557197111.6345823)}  cache_list:[{'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x0000023B1A13D9E8>, 't1': 1557197077.1924877, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x0000023B18CDB240>, 't1': 1557197111.6345823, 'ip': '127.0.0.1'}] ]
+2019-05-07 10:56:37,473 - ERROR - server1.py - del_timeout_user - 56 - [ error 监控模块异常 'abc|15295240290']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 38, in del_timeout_user
+    if cache != {}:
+KeyError: 'abc|15295240290'
+2019-05-07 10:56:37,474 - INFO - server1.py - del_timeout_user - 57 - [ cache:{'abc|17095118656': (<abc_bank.Abc_bank object at 0x0000023B18CDB240>, 1557197111.6345823)}  cache_list:[{'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x0000023B1A13D9E8>, 't1': 1557197077.1924877, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x0000023B18CDB240>, 't1': 1557197111.6345823, 'ip': '127.0.0.1'}] ]
+2019-05-07 10:56:52,476 - ERROR - server1.py - del_timeout_user - 56 - [ error 监控模块异常 'abc|15295240290']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 38, in del_timeout_user
+    if cache != {}:
+KeyError: 'abc|15295240290'
+2019-05-07 10:56:52,477 - INFO - server1.py - del_timeout_user - 57 - [ cache:{'abc|17095118656': (<abc_bank.Abc_bank object at 0x0000023B18CDB240>, 1557197111.6345823)}  cache_list:[{'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x0000023B1A13D9E8>, 't1': 1557197077.1924877, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x0000023B18CDB240>, 't1': 1557197111.6345823, 'ip': '127.0.0.1'}] ]
+2019-05-07 10:57:07,479 - ERROR - server1.py - del_timeout_user - 56 - [ error 监控模块异常 'abc|15295240290']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 38, in del_timeout_user
+    if cache != {}:
+KeyError: 'abc|15295240290'
+2019-05-07 10:57:07,480 - INFO - server1.py - del_timeout_user - 57 - [ cache:{'abc|17095118656': (<abc_bank.Abc_bank object at 0x0000023B18CDB240>, 1557197111.6345823)}  cache_list:[{'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x0000023B1A13D9E8>, 't1': 1557197077.1924877, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x0000023B18CDB240>, 't1': 1557197111.6345823, 'ip': '127.0.0.1'}] ]
+2019-05-07 10:57:09,785 - INFO - server1.py - <module> - 11 - [ abc_bank 服务已启动 ]
+2019-05-07 10:57:09,787 - INFO - server1.py - del_timeout_user - 32 - [ 监控异常登陆线程 <Thread(Thread-1, started 2404)> start ]
+2019-05-07 10:59:05,098 - INFO - server1.py - <module> - 11 - [ abc_bank 服务已启动 ]
+2019-05-07 10:59:05,100 - INFO - server1.py - del_timeout_user - 32 - [ 监控异常登陆线程 <Thread(Thread-1, started 8732)> start ]
+2019-05-07 10:59:15,716 - INFO - server1.py - abc_bank - 98 - [ abc {'username': '15295240290', 'password': 'zy120928', 'messagecode': '', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 10:59:15,717 - INFO - server1.py - abc_bank - 158 - ['用户: 15295240290  IP 地址: 127.0.0.1']
+2019-05-07 10:59:15,717 - INFO - server1.py - abc_bank - 159 - ['User-Agent: PostmanRuntime/7.11.0']
+2019-05-07 10:59:24,565 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 10:59:25,302 - INFO - server1.py - abc_bank - 167 - [ 返回图片验证码用时:9.586225986480713 ]
+2019-05-07 10:59:31,745 - INFO - server1.py - abc_bank - 98 - [ abc {'username': '15295240290', 'password': 'zy120928', 'messagecode': 'bfwh', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 10:59:31,745 - INFO - abc_bank.py - login - 104 - [ 开始登陆 ]
+2019-05-07 10:59:46,859 - INFO - abc_bank.py - data_db - 243 - [ 开始提取数据 ]
+2019-05-07 10:59:49,695 - INFO - server1.py - abc_bank - 98 - [ abc {'username': '17095118656', 'password': '10221408', 'messagecode': '', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 10:59:49,695 - INFO - server1.py - abc_bank - 158 - ['用户: 17095118656  IP 地址: 127.0.0.1']
+2019-05-07 10:59:49,696 - INFO - server1.py - abc_bank - 159 - ['User-Agent: PostmanRuntime/7.11.0']
+2019-05-07 10:59:53,521 - INFO - abc_bank.py - get_person_info - 558 - [ 获取个人详情页信息 ]
+2019-05-07 10:59:53,540 - INFO - abc_bank.py - card_info - 490 - [ 获取当月账单信息 ]
+2019-05-07 10:59:56,447 - INFO - server1.py - abc_bank - 148 - [ 两个用户同时进入服务：15295240290 ]
+2019-05-07 10:59:57,516 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 10:59:58,190 - INFO - server1.py - abc_bank - 167 - [ 返回图片验证码用时:8.494883060455322 ]
+2019-05-07 11:00:02,339 - INFO - server1.py - abc_bank - 98 - [ abc {'username': '17095118656', 'password': '10221408', 'messagecode': 'aaaa', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 11:00:02,339 - INFO - abc_bank.py - login - 104 - [ 开始登陆 ]
+2019-05-07 11:01:12,652 - INFO - server1.py - <module> - 11 - [ abc_bank 服务已启动 ]
+2019-05-07 11:01:12,655 - INFO - server1.py - del_timeout_user - 32 - [ 监控异常登陆线程 <Thread(Thread-1, started 17160)> start ]
+2019-05-07 11:02:14,380 - INFO - server1.py - <module> - 11 - [ abc_bank 服务已启动 ]
+2019-05-07 11:02:14,382 - INFO - server1.py - del_timeout_user - 32 - [ 监控异常登陆线程 <Thread(Thread-1, started 1828)> start ]
+2019-05-07 11:02:26,011 - INFO - server1.py - abc_bank - 98 - [ abc {'username': '15295240290', 'password': 'zy120928', 'messagecode': '', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 11:02:26,011 - INFO - server1.py - abc_bank - 158 - ['用户: 15295240290  IP 地址: 127.0.0.1']
+2019-05-07 11:02:26,012 - INFO - server1.py - abc_bank - 159 - ['User-Agent: PostmanRuntime/7.11.0']
+2019-05-07 11:02:34,357 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 11:02:35,258 - INFO - server1.py - abc_bank - 167 - [ 返回图片验证码用时:9.248186349868774 ]
+2019-05-07 11:02:55,000 - INFO - server1.py - abc_bank - 98 - [ abc {'username': '15295240290', 'password': 'zy120928', 'messagecode': 'odzp', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 11:02:55,001 - INFO - abc_bank.py - login - 104 - [ 开始登陆 ]
+2019-05-07 11:03:09,879 - INFO - server1.py - abc_bank - 98 - [ abc {'username': '17095118656', 'password': '10221408', 'messagecode': '', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 11:03:09,879 - INFO - server1.py - abc_bank - 158 - ['用户: 17095118656  IP 地址: 127.0.0.1']
+2019-05-07 11:03:09,880 - INFO - server1.py - abc_bank - 159 - ['User-Agent: PostmanRuntime/7.11.0']
+2019-05-07 11:03:09,953 - INFO - abc_bank.py - data_db - 243 - [ 开始提取数据 ]
+2019-05-07 11:03:16,690 - INFO - abc_bank.py - get_person_info - 558 - [ 获取个人详情页信息 ]
+2019-05-07 11:03:16,716 - INFO - abc_bank.py - card_info - 490 - [ 获取当月账单信息 ]
+2019-05-07 11:03:17,438 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 11:03:18,124 - INFO - server1.py - abc_bank - 167 - [ 返回图片验证码用时:8.245009899139404 ]
+2019-05-07 11:03:28,795 - INFO - server1.py - abc_bank - 98 - [ abc {'username': '17095118656', 'password': '10221408', 'messagecode': 'aaaa', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 11:03:28,795 - INFO - abc_bank.py - login - 104 - [ 开始登陆 ]
+2019-05-07 11:04:35,871 - INFO - abc_bank.py - login - 143 - [ 图形验证码错误，重新截图 ]
+2019-05-07 11:04:35,871 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 11:04:36,889 - INFO - server1.py - abc_bank - 145 - [ 返回数据用时:68.09442162513733 {'code': '4', 'message': '图形验证码错误，重新输入', 'img': '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'} ]
+2019-05-07 11:06:12,647 - INFO - server1.py - <module> - 11 - [ abc_bank 服务已启动 ]
+2019-05-07 11:06:12,649 - INFO - server1.py - del_timeout_user - 32 - [ 监控异常登陆线程 <Thread(Thread-1, started 3972)> start ]
+2019-05-07 11:06:21,779 - INFO - server1.py - abc_bank - 98 - [ abc {'username': '15295240290', 'password': 'zy120928', 'messagecode': '', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 11:06:21,779 - INFO - server1.py - abc_bank - 160 - ['用户: 15295240290  IP 地址: 127.0.0.1']
+2019-05-07 11:06:21,779 - INFO - server1.py - abc_bank - 161 - ['User-Agent: PostmanRuntime/7.11.0']
+2019-05-07 11:06:29,791 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 11:06:30,460 - INFO - server1.py - abc_bank - 169 - [ 返回图片验证码用时:8.682024955749512 ]
+2019-05-07 11:06:36,270 - INFO - server1.py - abc_bank - 98 - [ abc {'username': '15295240290', 'password': 'zy120928', 'messagecode': 'xapu', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 11:06:36,270 - INFO - abc_bank.py - login - 104 - [ 开始登陆 ]
+2019-05-07 11:06:51,236 - INFO - abc_bank.py - data_db - 243 - [ 开始提取数据 ]
+2019-05-07 11:06:59,133 - INFO - abc_bank.py - get_person_info - 558 - [ 获取个人详情页信息 ]
+2019-05-07 11:06:59,151 - INFO - abc_bank.py - card_info - 490 - [ 获取当月账单信息 ]
+2019-05-07 11:07:01,730 - INFO - server1.py - abc_bank - 98 - [ abc {'username': '17095118656', 'password': '10221408', 'messagecode': '', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 11:07:01,731 - INFO - server1.py - abc_bank - 160 - ['用户: 17095118656  IP 地址: 127.0.0.1']
+2019-05-07 11:07:01,731 - INFO - server1.py - abc_bank - 161 - ['User-Agent: PostmanRuntime/7.11.0']
+2019-05-07 11:07:08,957 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 11:07:09,712 - INFO - server1.py - abc_bank - 169 - [ 返回图片验证码用时:7.9820170402526855 ]
+2019-05-07 11:07:14,316 - INFO - server1.py - abc_bank - 98 - [ abc {'username': '17095118656', 'password': '10221408', 'messagecode': 'aaaa', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 11:07:14,316 - INFO - abc_bank.py - login - 104 - [ 开始登陆 ]
+2019-05-07 11:08:20,921 - INFO - abc_bank.py - login - 143 - [ 图形验证码错误，重新截图 ]
+2019-05-07 11:08:20,921 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 11:08:21,741 - INFO - server1.py - abc_bank - 145 - [ 返回数据用时:67.42470097541809 {'code': '4', 'message': '图形验证码错误，重新输入', 'img': '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'} ]
+2019-05-07 11:10:01,136 - INFO - server1.py - <module> - 11 - [ abc_bank 服务已启动 ]
+2019-05-07 11:10:01,138 - INFO - server1.py - del_timeout_user - 32 - [ 监控异常登陆线程 <Thread(Thread-1, started 15028)> start ]
+2019-05-07 11:10:35,850 - INFO - server1.py - abc_bank - 98 - [ abc {'username': '17095118656', 'password': '10221408', 'messagecode': '', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 11:10:35,850 - INFO - server1.py - abc_bank - 160 - ['用户: 17095118656  IP 地址: 127.0.0.1']
+2019-05-07 11:10:35,851 - INFO - server1.py - abc_bank - 161 - ['User-Agent: PostmanRuntime/7.11.0']
+2019-05-07 11:10:44,074 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 11:10:44,783 - INFO - server1.py - abc_bank - 169 - [ 返回图片验证码用时:8.9329833984375 ]
+2019-05-07 11:11:03,701 - INFO - server1.py - abc_bank - 98 - [ abc {'username': '17095118656', 'password': '10221408', 'messagecode': 'xosj', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 11:11:03,701 - INFO - abc_bank.py - login - 104 - [ 开始登陆 ]
+2019-05-07 11:11:18,281 - INFO - server1.py - abc_bank - 98 - [ abc {'username': '15295240290', 'password': 'zy120928', 'messagecode': '', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 11:11:18,282 - INFO - server1.py - abc_bank - 160 - ['用户: 15295240290  IP 地址: 127.0.0.1']
+2019-05-07 11:11:18,282 - INFO - server1.py - abc_bank - 161 - ['User-Agent: PostmanRuntime/7.11.0']
+2019-05-07 11:11:19,157 - INFO - abc_bank.py - data_db - 243 - [ 开始提取数据 ]
+2019-05-07 11:11:26,191 - INFO - abc_bank.py - get_person_info - 558 - [ 获取个人详情页信息 ]
+2019-05-07 11:11:26,193 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 11:11:26,215 - INFO - abc_bank.py - card_info - 490 - [ 获取当月账单信息 ]
+2019-05-07 11:11:27,198 - INFO - server1.py - abc_bank - 169 - [ 返回图片验证码用时:8.916759490966797 ]
+2019-05-07 11:11:29,106 - ERROR - server1.py - abc_bank - 153 - [ error ]17095118656
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 126, in abc_bank
+    rtn = g.login(user, pwd, mc)
+  File "D:\py-project\abc_bank\abc_bank.py", line 180, in login
+    return self.data_db(user)
+  File "D:\py-project\abc_bank\abc_bank.py", line 301, in data_db
+    info = self.card_info(info,user)
+  File "D:\py-project\abc_bank\abc_bank.py", line 497, in card_info
+    card_select_btn.click()
+  File "C:\Users\user\Envs\my_test\lib\site-packages\selenium\webdriver\remote\webelement.py", line 80, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\Users\user\Envs\my_test\lib\site-packages\selenium\webdriver\remote\webelement.py", line 633, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Users\user\Envs\my_test\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\user\Envs\my_test\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotInteractableException: Message: Cannot click on element
+
+2019-05-07 11:11:31,371 - INFO - server1.py - abc_bank - 98 - [ abc {'username': '15295240290', 'password': 'zy120928', 'messagecode': 'aaaa', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 11:11:31,371 - INFO - abc_bank.py - login - 104 - [ 开始登陆 ]
+2019-05-07 11:11:39,780 - INFO - abc_bank.py - login - 143 - [ 图形验证码错误，重新截图 ]
+2019-05-07 11:11:39,780 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 11:11:40,555 - INFO - server1.py - abc_bank - 145 - [ 返回数据用时:9.184034585952759 {'code': '4', 'message': '图形验证码错误，重新输入', 'img': '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'} ]
+2019-05-07 11:11:46,181 - ERROR - server1.py - del_timeout_user - 57 - [ error 监控模块异常 'abc|17095118656']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 39, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|17095118656'
+2019-05-07 11:11:46,182 - INFO - server1.py - del_timeout_user - 58 - [ cache:{'abc|15295240290': (<abc_bank.Abc_bank object at 0x000002B1850D8BE0>, 1557198684.0107727)}  cache_list:[{'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x000002B1846FDA20>, 't1': 1557198641.5324187, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x000002B1850D8BE0>, 't1': 1557198684.0107727, 'ip': '127.0.0.1'}] ]
+2019-05-07 11:12:01,184 - ERROR - server1.py - del_timeout_user - 57 - [ error 监控模块异常 'abc|17095118656']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 39, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|17095118656'
+2019-05-07 11:12:01,185 - INFO - server1.py - del_timeout_user - 58 - [ cache:{'abc|15295240290': (<abc_bank.Abc_bank object at 0x000002B1850D8BE0>, 1557198684.0107727)}  cache_list:[{'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x000002B1846FDA20>, 't1': 1557198641.5324187, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x000002B1850D8BE0>, 't1': 1557198684.0107727, 'ip': '127.0.0.1'}] ]
+2019-05-07 11:12:16,186 - ERROR - server1.py - del_timeout_user - 57 - [ error 监控模块异常 'abc|17095118656']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 39, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|17095118656'
+2019-05-07 11:12:16,186 - INFO - server1.py - del_timeout_user - 58 - [ cache:{'abc|15295240290': (<abc_bank.Abc_bank object at 0x000002B1850D8BE0>, 1557198684.0107727)}  cache_list:[{'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x000002B1846FDA20>, 't1': 1557198641.5324187, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x000002B1850D8BE0>, 't1': 1557198684.0107727, 'ip': '127.0.0.1'}] ]
+2019-05-07 11:12:31,188 - ERROR - server1.py - del_timeout_user - 57 - [ error 监控模块异常 'abc|17095118656']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 39, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|17095118656'
+2019-05-07 11:12:31,189 - INFO - server1.py - del_timeout_user - 58 - [ cache:{'abc|15295240290': (<abc_bank.Abc_bank object at 0x000002B1850D8BE0>, 1557198684.0107727)}  cache_list:[{'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x000002B1846FDA20>, 't1': 1557198641.5324187, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x000002B1850D8BE0>, 't1': 1557198684.0107727, 'ip': '127.0.0.1'}] ]
+2019-05-07 11:12:46,190 - ERROR - server1.py - del_timeout_user - 57 - [ error 监控模块异常 'abc|17095118656']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 39, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|17095118656'
+2019-05-07 11:12:46,193 - INFO - server1.py - del_timeout_user - 58 - [ cache:{'abc|15295240290': (<abc_bank.Abc_bank object at 0x000002B1850D8BE0>, 1557198684.0107727)}  cache_list:[{'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x000002B1846FDA20>, 't1': 1557198641.5324187, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x000002B1850D8BE0>, 't1': 1557198684.0107727, 'ip': '127.0.0.1'}] ]
+2019-05-07 11:13:01,194 - ERROR - server1.py - del_timeout_user - 57 - [ error 监控模块异常 'abc|17095118656']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 39, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|17095118656'
+2019-05-07 11:13:01,194 - INFO - server1.py - del_timeout_user - 58 - [ cache:{'abc|15295240290': (<abc_bank.Abc_bank object at 0x000002B1850D8BE0>, 1557198684.0107727)}  cache_list:[{'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x000002B1846FDA20>, 't1': 1557198641.5324187, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x000002B1850D8BE0>, 't1': 1557198684.0107727, 'ip': '127.0.0.1'}] ]
+2019-05-07 11:13:16,195 - ERROR - server1.py - del_timeout_user - 57 - [ error 监控模块异常 'abc|17095118656']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 39, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|17095118656'
+2019-05-07 11:13:16,196 - INFO - server1.py - del_timeout_user - 58 - [ cache:{'abc|15295240290': (<abc_bank.Abc_bank object at 0x000002B1850D8BE0>, 1557198684.0107727)}  cache_list:[{'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x000002B1846FDA20>, 't1': 1557198641.5324187, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x000002B1850D8BE0>, 't1': 1557198684.0107727, 'ip': '127.0.0.1'}] ]
+2019-05-07 11:13:31,198 - ERROR - server1.py - del_timeout_user - 57 - [ error 监控模块异常 'abc|17095118656']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 39, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|17095118656'
+2019-05-07 11:13:31,199 - INFO - server1.py - del_timeout_user - 58 - [ cache:{'abc|15295240290': (<abc_bank.Abc_bank object at 0x000002B1850D8BE0>, 1557198684.0107727)}  cache_list:[{'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x000002B1846FDA20>, 't1': 1557198641.5324187, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x000002B1850D8BE0>, 't1': 1557198684.0107727, 'ip': '127.0.0.1'}] ]
+2019-05-07 11:13:46,200 - ERROR - server1.py - del_timeout_user - 57 - [ error 监控模块异常 'abc|17095118656']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 39, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|17095118656'
+2019-05-07 11:13:46,201 - INFO - server1.py - del_timeout_user - 58 - [ cache:{'abc|15295240290': (<abc_bank.Abc_bank object at 0x000002B1850D8BE0>, 1557198684.0107727)}  cache_list:[{'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x000002B1846FDA20>, 't1': 1557198641.5324187, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x000002B1850D8BE0>, 't1': 1557198684.0107727, 'ip': '127.0.0.1'}] ]
+2019-05-07 11:14:01,203 - ERROR - server1.py - del_timeout_user - 57 - [ error 监控模块异常 'abc|17095118656']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 39, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|17095118656'
+2019-05-07 11:14:01,204 - INFO - server1.py - del_timeout_user - 58 - [ cache:{'abc|15295240290': (<abc_bank.Abc_bank object at 0x000002B1850D8BE0>, 1557198684.0107727)}  cache_list:[{'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x000002B1846FDA20>, 't1': 1557198641.5324187, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x000002B1850D8BE0>, 't1': 1557198684.0107727, 'ip': '127.0.0.1'}] ]
+2019-05-07 11:14:07,712 - INFO - server1.py - <module> - 11 - [ abc_bank 服务已启动 ]
+2019-05-07 11:14:07,714 - INFO - server1.py - del_timeout_user - 32 - [ 监控异常登陆线程 <Thread(Thread-1, started 7980)> start ]
+2019-05-07 11:14:23,160 - INFO - server1.py - abc_bank - 98 - [ abc {'username': '17095118656', 'password': '10221408', 'messagecode': '', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 11:14:23,160 - INFO - server1.py - abc_bank - 158 - ['用户: 17095118656  IP 地址: 127.0.0.1']
+2019-05-07 11:14:23,161 - INFO - server1.py - abc_bank - 159 - ['User-Agent: PostmanRuntime/7.11.0']
+2019-05-07 11:14:31,354 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 11:14:32,038 - INFO - server1.py - abc_bank - 167 - [ 返回图片验证码用时:8.87819790840149 ]
+2019-05-07 11:14:40,342 - INFO - server1.py - abc_bank - 98 - [ abc {'username': '17095118656', 'password': '10221408', 'messagecode': 'ilpc', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 11:14:40,343 - INFO - abc_bank.py - login - 104 - [ 开始登陆 ]
+2019-05-07 11:14:46,798 - INFO - abc_bank.py - login - 143 - [ 图形验证码错误，重新截图 ]
+2019-05-07 11:14:46,799 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 11:14:47,612 - INFO - server1.py - abc_bank - 145 - [ 返回数据用时:7.270052671432495 {'code': '4', 'message': '图形验证码错误，重新输入', 'img': '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'} ]
+2019-05-07 11:14:56,450 - INFO - server1.py - abc_bank - 98 - [ abc {'username': '17095118656', 'password': '10221408', 'messagecode': 'ilpc', 'messagecode_again': 'dbwr', 'smscode': '', 'proxy': ''} ]
+2019-05-07 11:14:56,451 - INFO - abc_bank.py - login - 104 - [ 开始登陆 ]
+2019-05-07 11:15:02,811 - INFO - abc_bank.py - login - 143 - [ 图形验证码错误，重新截图 ]
+2019-05-07 11:15:02,811 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 11:15:03,414 - INFO - abc_bank.py - login_again - 194 - [ 再次输入图片验证码 ]
+2019-05-07 11:15:12,302 - INFO - server1.py - abc_bank - 98 - [ abc {'username': '15295240290', 'password': 'zy120928', 'messagecode': '', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 11:15:12,303 - INFO - server1.py - abc_bank - 158 - ['用户: 15295240290  IP 地址: 127.0.0.1']
+2019-05-07 11:15:12,303 - INFO - server1.py - abc_bank - 159 - ['User-Agent: PostmanRuntime/7.11.0']
+2019-05-07 11:15:14,087 - INFO - abc_bank.py - data_db - 243 - [ 开始提取数据 ]
+2019-05-07 11:15:20,006 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 11:15:21,046 - INFO - server1.py - abc_bank - 167 - [ 返回图片验证码用时:8.744064331054688 ]
+2019-05-07 11:15:21,240 - INFO - abc_bank.py - get_person_info - 558 - [ 获取个人详情页信息 ]
+2019-05-07 11:15:21,259 - INFO - abc_bank.py - card_info - 490 - [ 获取当月账单信息 ]
+2019-05-07 11:15:23,917 - INFO - abc_bank.py - login_again - 234 - Message: Cannot click on element
+
+2019-05-07 11:15:25,510 - INFO - server1.py - abc_bank - 98 - [ abc {'username': '15295240290', 'password': 'zy120928', 'messagecode': 'aaaa', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 11:15:25,511 - INFO - abc_bank.py - login - 104 - [ 开始登陆 ]
+2019-05-07 11:15:27,363 - INFO - server1.py - abc_bank - 136 - [ 返回数据用时:30.91330361366272 {'code': '11', 'message': '操作频繁，请稍后再试'} ]
+2019-05-07 11:15:33,729 - INFO - abc_bank.py - login - 143 - [ 图形验证码错误，重新截图 ]
+2019-05-07 11:15:33,730 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 11:15:34,509 - INFO - server1.py - abc_bank - 145 - [ 返回数据用时:8.998993635177612 {'code': '4', 'message': '图形验证码错误，重新输入', 'img': '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'} ]
+2019-05-07 11:15:37,720 - ERROR - server1.py - del_timeout_user - 57 - [ error 监控模块异常 'abc|17095118656']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 39, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|17095118656'
+2019-05-07 11:15:37,720 - INFO - server1.py - del_timeout_user - 58 - [ cache:{'abc|15295240290': (<abc_bank.Abc_bank object at 0x000001E34F80B470>, 1557198918.1971378)}  cache_list:[{'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x000001E350C6EA20>, 't1': 1557198868.914763, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x000001E34F80B470>, 't1': 1557198918.1971378, 'ip': '127.0.0.1'}] ]
+2019-05-07 11:15:52,722 - ERROR - server1.py - del_timeout_user - 57 - [ error 监控模块异常 'abc|17095118656']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 39, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|17095118656'
+2019-05-07 11:15:52,722 - INFO - server1.py - del_timeout_user - 58 - [ cache:{'abc|15295240290': (<abc_bank.Abc_bank object at 0x000001E34F80B470>, 1557198918.1971378)}  cache_list:[{'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x000001E350C6EA20>, 't1': 1557198868.914763, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x000001E34F80B470>, 't1': 1557198918.1971378, 'ip': '127.0.0.1'}] ]
+2019-05-07 11:16:07,724 - ERROR - server1.py - del_timeout_user - 57 - [ error 监控模块异常 'abc|17095118656']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 39, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|17095118656'
+2019-05-07 11:16:07,724 - INFO - server1.py - del_timeout_user - 58 - [ cache:{'abc|15295240290': (<abc_bank.Abc_bank object at 0x000001E34F80B470>, 1557198918.1971378)}  cache_list:[{'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x000001E350C6EA20>, 't1': 1557198868.914763, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x000001E34F80B470>, 't1': 1557198918.1971378, 'ip': '127.0.0.1'}] ]
+2019-05-07 11:16:22,727 - ERROR - server1.py - del_timeout_user - 57 - [ error 监控模块异常 'abc|17095118656']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 39, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|17095118656'
+2019-05-07 11:16:22,727 - INFO - server1.py - del_timeout_user - 58 - [ cache:{'abc|15295240290': (<abc_bank.Abc_bank object at 0x000001E34F80B470>, 1557198918.1971378)}  cache_list:[{'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x000001E350C6EA20>, 't1': 1557198868.914763, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x000001E34F80B470>, 't1': 1557198918.1971378, 'ip': '127.0.0.1'}] ]
+2019-05-07 11:16:37,729 - ERROR - server1.py - del_timeout_user - 57 - [ error 监控模块异常 'abc|17095118656']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 39, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|17095118656'
+2019-05-07 11:16:37,730 - INFO - server1.py - del_timeout_user - 58 - [ cache:{'abc|15295240290': (<abc_bank.Abc_bank object at 0x000001E34F80B470>, 1557198918.1971378)}  cache_list:[{'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x000001E350C6EA20>, 't1': 1557198868.914763, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x000001E34F80B470>, 't1': 1557198918.1971378, 'ip': '127.0.0.1'}] ]
+2019-05-07 11:16:52,732 - ERROR - server1.py - del_timeout_user - 57 - [ error 监控模块异常 'abc|17095118656']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 39, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|17095118656'
+2019-05-07 11:16:52,733 - INFO - server1.py - del_timeout_user - 58 - [ cache:{'abc|15295240290': (<abc_bank.Abc_bank object at 0x000001E34F80B470>, 1557198918.1971378)}  cache_list:[{'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x000001E350C6EA20>, 't1': 1557198868.914763, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x000001E34F80B470>, 't1': 1557198918.1971378, 'ip': '127.0.0.1'}] ]
+2019-05-07 11:17:07,734 - ERROR - server1.py - del_timeout_user - 57 - [ error 监控模块异常 'abc|17095118656']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 39, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|17095118656'
+2019-05-07 11:17:07,734 - INFO - server1.py - del_timeout_user - 58 - [ cache:{'abc|15295240290': (<abc_bank.Abc_bank object at 0x000001E34F80B470>, 1557198918.1971378)}  cache_list:[{'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x000001E350C6EA20>, 't1': 1557198868.914763, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x000001E34F80B470>, 't1': 1557198918.1971378, 'ip': '127.0.0.1'}] ]
+2019-05-07 11:17:22,735 - ERROR - server1.py - del_timeout_user - 57 - [ error 监控模块异常 'abc|17095118656']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 39, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|17095118656'
+2019-05-07 11:17:22,735 - INFO - server1.py - del_timeout_user - 58 - [ cache:{'abc|15295240290': (<abc_bank.Abc_bank object at 0x000001E34F80B470>, 1557198918.1971378)}  cache_list:[{'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x000001E350C6EA20>, 't1': 1557198868.914763, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x000001E34F80B470>, 't1': 1557198918.1971378, 'ip': '127.0.0.1'}] ]
+2019-05-07 11:17:37,737 - ERROR - server1.py - del_timeout_user - 57 - [ error 监控模块异常 'abc|17095118656']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 39, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|17095118656'
+2019-05-07 11:17:37,737 - INFO - server1.py - del_timeout_user - 58 - [ cache:{'abc|15295240290': (<abc_bank.Abc_bank object at 0x000001E34F80B470>, 1557198918.1971378)}  cache_list:[{'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x000001E350C6EA20>, 't1': 1557198868.914763, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x000001E34F80B470>, 't1': 1557198918.1971378, 'ip': '127.0.0.1'}] ]
+2019-05-07 11:17:52,738 - ERROR - server1.py - del_timeout_user - 57 - [ error 监控模块异常 'abc|17095118656']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 39, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|17095118656'
+2019-05-07 11:17:52,739 - INFO - server1.py - del_timeout_user - 58 - [ cache:{'abc|15295240290': (<abc_bank.Abc_bank object at 0x000001E34F80B470>, 1557198918.1971378)}  cache_list:[{'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x000001E350C6EA20>, 't1': 1557198868.914763, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x000001E34F80B470>, 't1': 1557198918.1971378, 'ip': '127.0.0.1'}] ]
+2019-05-07 11:18:07,739 - ERROR - server1.py - del_timeout_user - 57 - [ error 监控模块异常 'abc|17095118656']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 39, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|17095118656'
+2019-05-07 11:18:07,739 - INFO - server1.py - del_timeout_user - 58 - [ cache:{'abc|15295240290': (<abc_bank.Abc_bank object at 0x000001E34F80B470>, 1557198918.1971378)}  cache_list:[{'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x000001E350C6EA20>, 't1': 1557198868.914763, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x000001E34F80B470>, 't1': 1557198918.1971378, 'ip': '127.0.0.1'}] ]
+2019-05-07 11:18:22,740 - ERROR - server1.py - del_timeout_user - 57 - [ error 监控模块异常 'abc|17095118656']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 39, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|17095118656'
+2019-05-07 11:18:22,740 - INFO - server1.py - del_timeout_user - 58 - [ cache:{'abc|15295240290': (<abc_bank.Abc_bank object at 0x000001E34F80B470>, 1557198918.1971378)}  cache_list:[{'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x000001E350C6EA20>, 't1': 1557198868.914763, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x000001E34F80B470>, 't1': 1557198918.1971378, 'ip': '127.0.0.1'}] ]
+2019-05-07 11:18:37,742 - ERROR - server1.py - del_timeout_user - 57 - [ error 监控模块异常 'abc|17095118656']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 39, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|17095118656'
+2019-05-07 11:18:37,742 - INFO - server1.py - del_timeout_user - 58 - [ cache:{'abc|15295240290': (<abc_bank.Abc_bank object at 0x000001E34F80B470>, 1557198918.1971378)}  cache_list:[{'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x000001E350C6EA20>, 't1': 1557198868.914763, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x000001E34F80B470>, 't1': 1557198918.1971378, 'ip': '127.0.0.1'}] ]
+2019-05-07 11:18:52,743 - ERROR - server1.py - del_timeout_user - 57 - [ error 监控模块异常 'abc|17095118656']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 39, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|17095118656'
+2019-05-07 11:18:52,743 - INFO - server1.py - del_timeout_user - 58 - [ cache:{'abc|15295240290': (<abc_bank.Abc_bank object at 0x000001E34F80B470>, 1557198918.1971378)}  cache_list:[{'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x000001E350C6EA20>, 't1': 1557198868.914763, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x000001E34F80B470>, 't1': 1557198918.1971378, 'ip': '127.0.0.1'}] ]
+2019-05-07 11:19:07,745 - ERROR - server1.py - del_timeout_user - 57 - [ error 监控模块异常 'abc|17095118656']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 39, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|17095118656'
+2019-05-07 11:19:07,745 - INFO - server1.py - del_timeout_user - 58 - [ cache:{'abc|15295240290': (<abc_bank.Abc_bank object at 0x000001E34F80B470>, 1557198918.1971378)}  cache_list:[{'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x000001E350C6EA20>, 't1': 1557198868.914763, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x000001E34F80B470>, 't1': 1557198918.1971378, 'ip': '127.0.0.1'}] ]
+2019-05-07 11:19:22,746 - ERROR - server1.py - del_timeout_user - 57 - [ error 监控模块异常 'abc|17095118656']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 39, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|17095118656'
+2019-05-07 11:19:22,747 - INFO - server1.py - del_timeout_user - 58 - [ cache:{'abc|15295240290': (<abc_bank.Abc_bank object at 0x000001E34F80B470>, 1557198918.1971378)}  cache_list:[{'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x000001E350C6EA20>, 't1': 1557198868.914763, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x000001E34F80B470>, 't1': 1557198918.1971378, 'ip': '127.0.0.1'}] ]
+2019-05-07 11:19:37,748 - ERROR - server1.py - del_timeout_user - 57 - [ error 监控模块异常 'abc|17095118656']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 39, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|17095118656'
+2019-05-07 11:19:37,748 - INFO - server1.py - del_timeout_user - 58 - [ cache:{'abc|15295240290': (<abc_bank.Abc_bank object at 0x000001E34F80B470>, 1557198918.1971378)}  cache_list:[{'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x000001E350C6EA20>, 't1': 1557198868.914763, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x000001E34F80B470>, 't1': 1557198918.1971378, 'ip': '127.0.0.1'}] ]
+2019-05-07 11:19:52,750 - ERROR - server1.py - del_timeout_user - 57 - [ error 监控模块异常 'abc|17095118656']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 39, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|17095118656'
+2019-05-07 11:19:52,750 - INFO - server1.py - del_timeout_user - 58 - [ cache:{'abc|15295240290': (<abc_bank.Abc_bank object at 0x000001E34F80B470>, 1557198918.1971378)}  cache_list:[{'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x000001E350C6EA20>, 't1': 1557198868.914763, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x000001E34F80B470>, 't1': 1557198918.1971378, 'ip': '127.0.0.1'}] ]
+2019-05-07 11:20:07,751 - ERROR - server1.py - del_timeout_user - 57 - [ error 监控模块异常 'abc|17095118656']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 39, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|17095118656'
+2019-05-07 11:20:07,753 - INFO - server1.py - del_timeout_user - 58 - [ cache:{'abc|15295240290': (<abc_bank.Abc_bank object at 0x000001E34F80B470>, 1557198918.1971378)}  cache_list:[{'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x000001E350C6EA20>, 't1': 1557198868.914763, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x000001E34F80B470>, 't1': 1557198918.1971378, 'ip': '127.0.0.1'}] ]
+2019-05-07 11:20:22,755 - ERROR - server1.py - del_timeout_user - 57 - [ error 监控模块异常 'abc|17095118656']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 39, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|17095118656'
+2019-05-07 11:20:22,756 - INFO - server1.py - del_timeout_user - 58 - [ cache:{'abc|15295240290': (<abc_bank.Abc_bank object at 0x000001E34F80B470>, 1557198918.1971378)}  cache_list:[{'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x000001E350C6EA20>, 't1': 1557198868.914763, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x000001E34F80B470>, 't1': 1557198918.1971378, 'ip': '127.0.0.1'}] ]
+2019-05-07 11:20:37,757 - ERROR - server1.py - del_timeout_user - 57 - [ error 监控模块异常 'abc|17095118656']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 39, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|17095118656'
+2019-05-07 11:20:37,759 - INFO - server1.py - del_timeout_user - 58 - [ cache:{'abc|15295240290': (<abc_bank.Abc_bank object at 0x000001E34F80B470>, 1557198918.1971378)}  cache_list:[{'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x000001E350C6EA20>, 't1': 1557198868.914763, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x000001E34F80B470>, 't1': 1557198918.1971378, 'ip': '127.0.0.1'}] ]
+2019-05-07 11:27:46,655 - INFO - server1.py - <module> - 11 - [ abc_bank 服务已启动 ]
+2019-05-07 11:27:46,656 - INFO - server1.py - del_timeout_user - 32 - [ 监控异常登陆线程 <Thread(Thread-1, started 760)> start ]
+2019-05-07 13:32:24,428 - INFO - server1.py - abc_bank - 102 - [ abc {'username': '17095118656', 'password': '10221408', 'messagecode': '', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 13:32:24,428 - INFO - server1.py - abc_bank - 161 - ['用户: 17095118656  IP 地址: 127.0.0.1']
+2019-05-07 13:32:24,428 - INFO - server1.py - abc_bank - 162 - ['User-Agent: PostmanRuntime/7.11.0']
+2019-05-07 13:32:32,001 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 13:32:32,573 - INFO - server1.py - abc_bank - 170 - [ 返回图片验证码用时:8.145200967788696 ]
+2019-05-07 13:32:43,687 - INFO - server1.py - abc_bank - 102 - [ abc {'username': '17095118656', 'password': '10221408', 'messagecode': 'wiys', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 13:32:43,688 - INFO - abc_bank.py - login - 104 - [ 开始登陆 ]
+2019-05-07 13:32:58,769 - INFO - abc_bank.py - data_db - 243 - [ 开始提取数据 ]
+2019-05-07 13:32:59,682 - INFO - server1.py - abc_bank - 102 - [ abc {'username': '15295240290', 'password': 'zy120928', 'messagecode': '', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 13:32:59,682 - INFO - server1.py - abc_bank - 161 - ['用户: 15295240290  IP 地址: 127.0.0.1']
+2019-05-07 13:32:59,682 - INFO - server1.py - abc_bank - 162 - ['User-Agent: PostmanRuntime/7.11.0']
+2019-05-07 13:33:05,084 - INFO - abc_bank.py - get_person_info - 558 - [ 获取个人详情页信息 ]
+2019-05-07 13:33:05,105 - INFO - abc_bank.py - card_info - 490 - [ 获取当月账单信息 ]
+2019-05-07 13:33:06,411 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 13:33:07,032 - INFO - server1.py - abc_bank - 170 - [ 返回图片验证码用时:7.350339412689209 ]
+2019-05-07 13:33:07,502 - ERROR - server1.py - abc_bank - 154 - [ error ]17095118656
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 130, in abc_bank
+    rtn = g.login(user, pwd, mc)
+  File "D:\py-project\abc_bank\abc_bank.py", line 180, in login
+    return self.data_db(user)
+  File "D:\py-project\abc_bank\abc_bank.py", line 301, in data_db
+    info = self.card_info(info,user)
+  File "D:\py-project\abc_bank\abc_bank.py", line 497, in card_info
+    card_select_btn.click()
+  File "C:\Users\user\Envs\my_test\lib\site-packages\selenium\webdriver\remote\webelement.py", line 80, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\Users\user\Envs\my_test\lib\site-packages\selenium\webdriver\remote\webelement.py", line 633, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Users\user\Envs\my_test\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\user\Envs\my_test\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotInteractableException: Message: Cannot click on element
+
+2019-05-07 13:33:12,274 - ERROR - server1.py - del_timeout_user - 61 - [ error 监控模块异常 'abc|17095118656']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 43, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|17095118656'
+2019-05-07 13:33:12,274 - INFO - server1.py - del_timeout_user - 62 - [ cache:{'abc|15295240290': (<abc_bank.Abc_bank object at 0x000001AFFA108400>, 1557207184.6871743)}  cache_list:[{'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x000001AFFB54EA20>, 't1': 1557207150.013038, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x000001AFFA108400>, 't1': 1557207184.6871743, 'ip': '127.0.0.1'}] ]
+2019-05-07 13:33:27,276 - ERROR - server1.py - del_timeout_user - 61 - [ error 监控模块异常 'abc|17095118656']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 43, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|17095118656'
+2019-05-07 13:33:27,277 - INFO - server1.py - del_timeout_user - 62 - [ cache:{'abc|15295240290': (<abc_bank.Abc_bank object at 0x000001AFFA108400>, 1557207184.6871743)}  cache_list:[{'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x000001AFFB54EA20>, 't1': 1557207150.013038, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x000001AFFA108400>, 't1': 1557207184.6871743, 'ip': '127.0.0.1'}] ]
+2019-05-07 13:33:42,278 - ERROR - server1.py - del_timeout_user - 61 - [ error 监控模块异常 'abc|17095118656']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 43, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|17095118656'
+2019-05-07 13:33:42,280 - INFO - server1.py - del_timeout_user - 62 - [ cache:{'abc|15295240290': (<abc_bank.Abc_bank object at 0x000001AFFA108400>, 1557207184.6871743)}  cache_list:[{'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x000001AFFB54EA20>, 't1': 1557207150.013038, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x000001AFFA108400>, 't1': 1557207184.6871743, 'ip': '127.0.0.1'}] ]
+2019-05-07 13:33:57,281 - ERROR - server1.py - del_timeout_user - 61 - [ error 监控模块异常 'abc|17095118656']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 43, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|17095118656'
+2019-05-07 13:33:57,283 - INFO - server1.py - del_timeout_user - 62 - [ cache:{'abc|15295240290': (<abc_bank.Abc_bank object at 0x000001AFFA108400>, 1557207184.6871743)}  cache_list:[{'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x000001AFFB54EA20>, 't1': 1557207150.013038, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x000001AFFA108400>, 't1': 1557207184.6871743, 'ip': '127.0.0.1'}] ]
+2019-05-07 13:34:12,286 - ERROR - server1.py - del_timeout_user - 61 - [ error 监控模块异常 'abc|17095118656']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 43, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|17095118656'
+2019-05-07 13:34:12,288 - INFO - server1.py - del_timeout_user - 62 - [ cache:{'abc|15295240290': (<abc_bank.Abc_bank object at 0x000001AFFA108400>, 1557207184.6871743)}  cache_list:[{'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x000001AFFB54EA20>, 't1': 1557207150.013038, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x000001AFFA108400>, 't1': 1557207184.6871743, 'ip': '127.0.0.1'}] ]
+2019-05-07 13:34:27,290 - ERROR - server1.py - del_timeout_user - 61 - [ error 监控模块异常 'abc|17095118656']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 43, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|17095118656'
+2019-05-07 13:34:27,292 - INFO - server1.py - del_timeout_user - 62 - [ cache:{'abc|15295240290': (<abc_bank.Abc_bank object at 0x000001AFFA108400>, 1557207184.6871743)}  cache_list:[{'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x000001AFFB54EA20>, 't1': 1557207150.013038, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x000001AFFA108400>, 't1': 1557207184.6871743, 'ip': '127.0.0.1'}] ]
+2019-05-07 13:34:42,294 - ERROR - server1.py - del_timeout_user - 61 - [ error 监控模块异常 'abc|17095118656']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 43, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|17095118656'
+2019-05-07 13:34:42,296 - INFO - server1.py - del_timeout_user - 62 - [ cache:{'abc|15295240290': (<abc_bank.Abc_bank object at 0x000001AFFA108400>, 1557207184.6871743)}  cache_list:[{'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x000001AFFB54EA20>, 't1': 1557207150.013038, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x000001AFFA108400>, 't1': 1557207184.6871743, 'ip': '127.0.0.1'}] ]
+2019-05-07 13:34:57,298 - ERROR - server1.py - del_timeout_user - 61 - [ error 监控模块异常 'abc|17095118656']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 43, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|17095118656'
+2019-05-07 13:34:57,299 - INFO - server1.py - del_timeout_user - 62 - [ cache:{'abc|15295240290': (<abc_bank.Abc_bank object at 0x000001AFFA108400>, 1557207184.6871743)}  cache_list:[{'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x000001AFFB54EA20>, 't1': 1557207150.013038, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x000001AFFA108400>, 't1': 1557207184.6871743, 'ip': '127.0.0.1'}] ]
+2019-05-07 13:35:12,300 - ERROR - server1.py - del_timeout_user - 61 - [ error 监控模块异常 'abc|17095118656']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 43, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|17095118656'
+2019-05-07 13:35:12,303 - INFO - server1.py - del_timeout_user - 62 - [ cache:{'abc|15295240290': (<abc_bank.Abc_bank object at 0x000001AFFA108400>, 1557207184.6871743)}  cache_list:[{'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x000001AFFB54EA20>, 't1': 1557207150.013038, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x000001AFFA108400>, 't1': 1557207184.6871743, 'ip': '127.0.0.1'}] ]
+2019-05-07 13:35:27,305 - ERROR - server1.py - del_timeout_user - 61 - [ error 监控模块异常 'abc|17095118656']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 43, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|17095118656'
+2019-05-07 13:35:27,308 - INFO - server1.py - del_timeout_user - 62 - [ cache:{'abc|15295240290': (<abc_bank.Abc_bank object at 0x000001AFFA108400>, 1557207184.6871743)}  cache_list:[{'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x000001AFFB54EA20>, 't1': 1557207150.013038, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x000001AFFA108400>, 't1': 1557207184.6871743, 'ip': '127.0.0.1'}] ]
+2019-05-07 13:35:42,309 - ERROR - server1.py - del_timeout_user - 61 - [ error 监控模块异常 'abc|17095118656']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 43, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|17095118656'
+2019-05-07 13:35:42,311 - INFO - server1.py - del_timeout_user - 62 - [ cache:{'abc|15295240290': (<abc_bank.Abc_bank object at 0x000001AFFA108400>, 1557207184.6871743)}  cache_list:[{'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x000001AFFB54EA20>, 't1': 1557207150.013038, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x000001AFFA108400>, 't1': 1557207184.6871743, 'ip': '127.0.0.1'}] ]
+2019-05-07 13:35:57,313 - ERROR - server1.py - del_timeout_user - 61 - [ error 监控模块异常 'abc|17095118656']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 43, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|17095118656'
+2019-05-07 13:35:57,313 - INFO - server1.py - del_timeout_user - 62 - [ cache:{'abc|15295240290': (<abc_bank.Abc_bank object at 0x000001AFFA108400>, 1557207184.6871743)}  cache_list:[{'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x000001AFFB54EA20>, 't1': 1557207150.013038, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x000001AFFA108400>, 't1': 1557207184.6871743, 'ip': '127.0.0.1'}] ]
+2019-05-07 13:36:12,314 - ERROR - server1.py - del_timeout_user - 61 - [ error 监控模块异常 'abc|17095118656']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 43, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|17095118656'
+2019-05-07 13:36:12,317 - INFO - server1.py - del_timeout_user - 62 - [ cache:{'abc|15295240290': (<abc_bank.Abc_bank object at 0x000001AFFA108400>, 1557207184.6871743)}  cache_list:[{'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x000001AFFB54EA20>, 't1': 1557207150.013038, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x000001AFFA108400>, 't1': 1557207184.6871743, 'ip': '127.0.0.1'}] ]
+2019-05-07 13:36:27,318 - ERROR - server1.py - del_timeout_user - 61 - [ error 监控模块异常 'abc|17095118656']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 43, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|17095118656'
+2019-05-07 13:36:27,321 - INFO - server1.py - del_timeout_user - 62 - [ cache:{'abc|15295240290': (<abc_bank.Abc_bank object at 0x000001AFFA108400>, 1557207184.6871743)}  cache_list:[{'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x000001AFFB54EA20>, 't1': 1557207150.013038, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x000001AFFA108400>, 't1': 1557207184.6871743, 'ip': '127.0.0.1'}] ]
+2019-05-07 13:36:42,323 - ERROR - server1.py - del_timeout_user - 61 - [ error 监控模块异常 'abc|17095118656']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 43, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|17095118656'
+2019-05-07 13:36:42,324 - INFO - server1.py - del_timeout_user - 62 - [ cache:{'abc|15295240290': (<abc_bank.Abc_bank object at 0x000001AFFA108400>, 1557207184.6871743)}  cache_list:[{'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x000001AFFB54EA20>, 't1': 1557207150.013038, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x000001AFFA108400>, 't1': 1557207184.6871743, 'ip': '127.0.0.1'}] ]
+2019-05-07 13:36:57,326 - ERROR - server1.py - del_timeout_user - 61 - [ error 监控模块异常 'abc|17095118656']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 43, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|17095118656'
+2019-05-07 13:36:57,326 - INFO - server1.py - del_timeout_user - 62 - [ cache:{'abc|15295240290': (<abc_bank.Abc_bank object at 0x000001AFFA108400>, 1557207184.6871743)}  cache_list:[{'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x000001AFFB54EA20>, 't1': 1557207150.013038, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x000001AFFA108400>, 't1': 1557207184.6871743, 'ip': '127.0.0.1'}] ]
+2019-05-07 13:37:12,327 - ERROR - server1.py - del_timeout_user - 61 - [ error 监控模块异常 'abc|17095118656']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 43, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|17095118656'
+2019-05-07 13:37:12,330 - INFO - server1.py - del_timeout_user - 62 - [ cache:{'abc|15295240290': (<abc_bank.Abc_bank object at 0x000001AFFA108400>, 1557207184.6871743)}  cache_list:[{'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x000001AFFB54EA20>, 't1': 1557207150.013038, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x000001AFFA108400>, 't1': 1557207184.6871743, 'ip': '127.0.0.1'}] ]
+2019-05-07 13:37:20,864 - INFO - server1.py - <module> - 11 - [ abc_bank 服务已启动 ]
+2019-05-07 13:37:20,866 - INFO - server1.py - del_timeout_user - 32 - [ 监控异常登陆线程 <Thread(Thread-1, started 7260)> start ]
+2019-05-07 13:37:37,222 - INFO - server1.py - abc_bank - 102 - [ abc {'username': '17095118656', 'password': '10221408', 'messagecode': '', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 13:37:37,222 - INFO - server1.py - abc_bank - 161 - ['用户: 17095118656  IP 地址: 127.0.0.1']
+2019-05-07 13:37:37,222 - INFO - server1.py - abc_bank - 162 - ['User-Agent: PostmanRuntime/7.11.0']
+2019-05-07 13:37:45,593 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 13:37:46,162 - INFO - server1.py - abc_bank - 171 - [ 返回图片验证码用时:8.939712047576904 ]
+2019-05-07 13:37:53,497 - INFO - server1.py - abc_bank - 102 - [ abc {'username': '17095118656', 'password': '10221408', 'messagecode': 'lbjn', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 13:37:53,497 - INFO - abc_bank.py - login - 104 - [ 开始登陆 ]
+2019-05-07 13:38:08,671 - INFO - server1.py - abc_bank - 149 - [ 返回数据用时:15.173919200897217 {'code': '20', 'message': '帐户未注册渠道服务或已注销，请到银行官网注册后登陆'} ]
+2019-05-07 13:38:45,970 - INFO - server1.py - abc_bank - 102 - [ abc {'username': '17095118656', 'password': '10221408', 'messagecode': '', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 13:38:45,971 - INFO - server1.py - abc_bank - 161 - ['用户: 17095118656  IP 地址: 127.0.0.1']
+2019-05-07 13:38:45,971 - INFO - server1.py - abc_bank - 162 - ['User-Agent: PostmanRuntime/7.11.0']
+2019-05-07 13:38:54,715 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 13:38:55,373 - INFO - server1.py - abc_bank - 171 - [ 返回图片验证码用时:9.402848243713379 ]
+2019-05-07 13:39:03,154 - INFO - server1.py - abc_bank - 102 - [ abc {'username': '17095118656', 'password': '10221408', 'messagecode': 'sxev', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 13:39:03,154 - INFO - abc_bank.py - login - 104 - [ 开始登陆 ]
+2019-05-07 13:39:16,614 - INFO - server1.py - abc_bank - 102 - [ abc {'username': '15295240290', 'password': 'zy120928', 'messagecode': '', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 13:39:16,615 - INFO - server1.py - abc_bank - 161 - ['用户: 15295240290  IP 地址: 127.0.0.1']
+2019-05-07 13:39:16,615 - INFO - server1.py - abc_bank - 162 - ['User-Agent: PostmanRuntime/7.11.0']
+2019-05-07 13:39:17,632 - INFO - abc_bank.py - data_db - 243 - [ 开始提取数据 ]
+2019-05-07 13:39:23,310 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 13:39:23,973 - INFO - server1.py - abc_bank - 171 - [ 返回图片验证码用时:7.35932731628418 ]
+2019-05-07 13:39:24,018 - INFO - abc_bank.py - get_person_info - 558 - [ 获取个人详情页信息 ]
+2019-05-07 13:39:24,039 - INFO - abc_bank.py - card_info - 490 - [ 获取当月账单信息 ]
+2019-05-07 13:39:26,564 - ERROR - server1.py - abc_bank - 154 - [ error ]17095118656
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 130, in abc_bank
+    rtn = g.login(user, pwd, mc)
+  File "D:\py-project\abc_bank\abc_bank.py", line 180, in login
+    return self.data_db(user)
+  File "D:\py-project\abc_bank\abc_bank.py", line 301, in data_db
+    info = self.card_info(info,user)
+  File "D:\py-project\abc_bank\abc_bank.py", line 497, in card_info
+    card_select_btn.click()
+  File "C:\Users\user\Envs\my_test\lib\site-packages\selenium\webdriver\remote\webelement.py", line 80, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\Users\user\Envs\my_test\lib\site-packages\selenium\webdriver\remote\webelement.py", line 633, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Users\user\Envs\my_test\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\user\Envs\my_test\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotInteractableException: Message: Cannot click on element
+
+2019-05-07 13:39:37,444 - INFO - server1.py - abc_bank - 102 - [ abc {'username': '15295240290', 'password': 'zy120928', 'messagecode': 'sryq', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 13:39:37,445 - INFO - abc_bank.py - login - 104 - [ 开始登陆 ]
+2019-05-07 13:39:52,159 - INFO - abc_bank.py - data_db - 243 - [ 开始提取数据 ]
+2019-05-07 13:39:55,533 - INFO - server1.py - abc_bank - 102 - [ abc {'username': '17095118656', 'password': '10221408', 'messagecode': '', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 13:39:55,533 - INFO - server1.py - abc_bank - 161 - ['用户: 17095118656  IP 地址: 127.0.0.1']
+2019-05-07 13:39:55,534 - INFO - server1.py - abc_bank - 162 - ['User-Agent: PostmanRuntime/7.11.0']
+2019-05-07 13:40:00,592 - INFO - abc_bank.py - get_person_info - 558 - [ 获取个人详情页信息 ]
+2019-05-07 13:40:00,614 - INFO - abc_bank.py - card_info - 490 - [ 获取当月账单信息 ]
+2019-05-07 13:40:02,699 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 13:40:03,254 - INFO - server1.py - abc_bank - 171 - [ 返回图片验证码用时:7.721348285675049 ]
+2019-05-07 13:40:07,916 - INFO - abc_bank.py - get_detail_bill - 381 - [ 获取半年月账单信息 ]
+2019-05-07 13:47:13,733 - INFO - server1.py - <module> - 11 - [ abc_bank 服务已启动 ]
+2019-05-07 13:47:13,734 - INFO - server1.py - del_timeout_user - 32 - [ 监控异常登陆线程 <Thread(Thread-1, started 19280)> start ]
+2019-05-07 13:47:27,756 - INFO - server1.py - abc_bank - 106 - [ abc {'username': '15295240290', 'password': 'zy120928', 'messagecode': '', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 13:47:27,756 - INFO - server1.py - abc_bank - 165 - ['用户: 15295240290  IP 地址: 127.0.0.1']
+2019-05-07 13:47:27,756 - INFO - server1.py - abc_bank - 166 - ['User-Agent: PostmanRuntime/7.11.0']
+2019-05-07 13:47:35,631 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 13:47:36,360 - INFO - server1.py - abc_bank - 174 - [ 返回图片验证码用时:8.60498332977295 ]
+2019-05-07 13:47:56,950 - INFO - server1.py - abc_bank - 106 - [ abc {'username': '17095118656', 'password': '10221408', 'messagecode': '', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 13:47:56,950 - INFO - server1.py - abc_bank - 165 - ['用户: 17095118656  IP 地址: 127.0.0.1']
+2019-05-07 13:47:56,951 - INFO - server1.py - abc_bank - 166 - ['User-Agent: PostmanRuntime/7.11.0']
+2019-05-07 13:48:03,544 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 13:48:04,098 - INFO - server1.py - abc_bank - 174 - [ 返回图片验证码用时:7.147881031036377 ]
+2019-05-07 13:53:39,430 - INFO - server1.py - <module> - 11 - [ abc_bank 服务已启动 ]
+2019-05-07 13:53:39,431 - INFO - server1.py - del_timeout_user - 32 - [ 监控异常登陆线程 <Thread(Thread-1, started 5820)> start ]
+2019-05-07 13:53:49,867 - INFO - server1.py - <module> - 11 - [ abc_bank 服务已启动 ]
+2019-05-07 13:53:49,868 - INFO - server1.py - del_timeout_user - 32 - [ 监控异常登陆线程 <Thread(Thread-1, started 17596)> start ]
+2019-05-07 13:53:53,680 - INFO - server1.py - abc_bank - 106 - [ abc {'username': '17095118656', 'password': '10221408', 'messagecode': '', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 13:53:53,680 - INFO - server1.py - abc_bank - 165 - ['用户: 17095118656  IP 地址: 127.0.0.1']
+2019-05-07 13:53:53,680 - INFO - server1.py - abc_bank - 166 - ['User-Agent: PostmanRuntime/7.11.0']
+2019-05-07 13:54:00,897 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 13:54:01,616 - INFO - server1.py - abc_bank - 174 - [ 返回图片验证码用时:7.9360034465789795 ]
+2019-05-07 13:54:05,232 - INFO - server1.py - abc_bank - 106 - [ abc {'username': '15295240290', 'password': 'zy120928', 'messagecode': '', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 13:54:05,232 - INFO - server1.py - abc_bank - 165 - ['用户: 15295240290  IP 地址: 127.0.0.1']
+2019-05-07 13:54:05,232 - INFO - server1.py - abc_bank - 166 - ['User-Agent: PostmanRuntime/7.11.0']
+2019-05-07 13:54:11,883 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 13:54:12,416 - INFO - server1.py - abc_bank - 174 - [ 返回图片验证码用时:7.184838056564331 ]
+2019-05-07 13:54:38,827 - INFO - server1.py - <module> - 11 - [ abc_bank 服务已启动 ]
+2019-05-07 13:54:38,828 - INFO - server1.py - del_timeout_user - 32 - [ 监控异常登陆线程 <Thread(Thread-1, started 13264)> start ]
+2019-05-07 13:55:02,652 - INFO - server1.py - <module> - 11 - [ abc_bank 服务已启动 ]
+2019-05-07 13:55:02,653 - INFO - server1.py - del_timeout_user - 32 - [ 监控异常登陆线程 <Thread(Thread-1, started 18520)> start ]
+2019-05-07 13:55:17,488 - INFO - server1.py - abc_bank - 106 - [ abc {'username': '17095118656', 'password': '10221408', 'messagecode': '', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 13:55:17,488 - INFO - server1.py - abc_bank - 165 - ['用户: 17095118656  IP 地址: 127.0.0.1']
+2019-05-07 13:55:17,488 - INFO - server1.py - abc_bank - 166 - ['User-Agent: PostmanRuntime/7.11.0']
+2019-05-07 13:55:24,554 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 13:55:25,137 - INFO - server1.py - abc_bank - 174 - [ 返回图片验证码用时:7.648540735244751 ]
+2019-05-07 13:55:27,581 - INFO - server1.py - abc_bank - 106 - [ abc {'username': '15295240290', 'password': 'zy120928', 'messagecode': '', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 13:55:27,582 - INFO - server1.py - abc_bank - 165 - ['用户: 15295240290  IP 地址: 127.0.0.1']
+2019-05-07 13:55:27,582 - INFO - server1.py - abc_bank - 166 - ['User-Agent: PostmanRuntime/7.11.0']
+2019-05-07 13:55:37,783 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 13:55:38,333 - INFO - server1.py - abc_bank - 174 - [ 返回图片验证码用时:10.752279281616211 ]
+2019-05-07 13:57:16,270 - INFO - server1.py - <module> - 11 - [ abc_bank 服务已启动 ]
+2019-05-07 13:57:16,271 - INFO - server1.py - del_timeout_user - 32 - [ 监控异常登陆线程 <Thread(Thread-1, started 14700)> start ]
+2019-05-07 13:57:26,653 - INFO - server1.py - abc_bank - 98 - [ abc {'username': '15295240290', 'password': 'zy120928', 'messagecode': '', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 13:57:26,653 - INFO - server1.py - abc_bank - 157 - ['用户: 15295240290  IP 地址: 127.0.0.1']
+2019-05-07 13:57:26,653 - INFO - server1.py - abc_bank - 158 - ['User-Agent: PostmanRuntime/7.11.0']
+2019-05-07 13:57:33,582 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 13:57:34,247 - INFO - server1.py - abc_bank - 166 - [ 返回图片验证码用时:7.594686269760132 ]
+2019-05-07 13:57:44,971 - INFO - server1.py - abc_bank - 98 - [ abc {'username': '15295240290', 'password': 'zy120928', 'messagecode': 'pmxp', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 13:57:44,971 - INFO - abc_bank.py - login - 104 - [ 开始登陆 ]
+2019-05-07 13:57:58,726 - INFO - server1.py - abc_bank - 98 - [ abc {'username': '17095118656', 'password': '10221408', 'messagecode': '', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 13:57:58,726 - INFO - server1.py - abc_bank - 157 - ['用户: 17095118656  IP 地址: 127.0.0.1']
+2019-05-07 13:57:58,727 - INFO - server1.py - abc_bank - 158 - ['User-Agent: PostmanRuntime/7.11.0']
+2019-05-07 13:57:59,896 - ERROR - server1.py - abc_bank - 150 - [ error ]15295240290
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 126, in abc_bank
+    rtn = g.login(user, pwd, mc)
+  File "D:\py-project\abc_bank\abc_bank.py", line 176, in login
+    if u'获取验证码' in self.browser.page_source:
+TypeError: argument of type 'NoneType' is not iterable
+2019-05-07 13:58:03,018 - ERROR - server1.py - finish - 75 - [ error finish]
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 126, in abc_bank
+    rtn = g.login(user, pwd, mc)
+  File "D:\py-project\abc_bank\abc_bank.py", line 176, in login
+    if u'获取验证码' in self.browser.page_source:
+TypeError: argument of type 'NoneType' is not iterable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user\Envs\my_test\lib\site-packages\urllib3\connection.py", line 159, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw)
+  File "C:\Users\user\Envs\my_test\lib\site-packages\urllib3\util\connection.py", line 80, in create_connection
+    raise err
+  File "C:\Users\user\Envs\my_test\lib\site-packages\urllib3\util\connection.py", line 70, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\user\Envs\my_test\lib\site-packages\urllib3\connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "C:\Users\user\Envs\my_test\lib\site-packages\urllib3\connectionpool.py", line 354, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "d:\python3.6\Lib\http\client.py", line 1239, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "d:\python3.6\Lib\http\client.py", line 1285, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "d:\python3.6\Lib\http\client.py", line 1234, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "d:\python3.6\Lib\http\client.py", line 1026, in _send_output
+    self.send(msg)
+  File "d:\python3.6\Lib\http\client.py", line 964, in send
+    self.connect()
+  File "C:\Users\user\Envs\my_test\lib\site-packages\urllib3\connection.py", line 181, in connect
+    conn = self._new_conn()
+  File "C:\Users\user\Envs\my_test\lib\site-packages\urllib3\connection.py", line 168, in _new_conn
+    self, "Failed to establish a new connection: %s" % e)
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x000001FE7A237828>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 72, in finish
+    cache[k][0].browser.quit()
+  File "C:\Users\user\Envs\my_test\lib\site-packages\selenium\webdriver\ie\webdriver.py", line 101, in quit
+    RemoteWebDriver.quit(self)
+  File "C:\Users\user\Envs\my_test\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 698, in quit
+    self.execute(Command.QUIT)
+  File "C:\Users\user\Envs\my_test\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 319, in execute
+    response = self.command_executor.execute(driver_command, params)
+  File "C:\Users\user\Envs\my_test\lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 374, in execute
+    return self._request(command_info[0], url, body=data)
+  File "C:\Users\user\Envs\my_test\lib\site-packages\selenium\webdriver\remote\remote_connection.py", line 402, in _request
+    resp = http.request(method, url, body=body, headers=headers)
+  File "C:\Users\user\Envs\my_test\lib\site-packages\urllib3\request.py", line 68, in request
+    **urlopen_kw)
+  File "C:\Users\user\Envs\my_test\lib\site-packages\urllib3\request.py", line 89, in request_encode_url
+    return self.urlopen(method, url, **extra_kw)
+  File "C:\Users\user\Envs\my_test\lib\site-packages\urllib3\poolmanager.py", line 323, in urlopen
+    response = conn.urlopen(method, u.request_uri, **kw)
+  File "C:\Users\user\Envs\my_test\lib\site-packages\urllib3\connectionpool.py", line 667, in urlopen
+    **response_kw)
+  File "C:\Users\user\Envs\my_test\lib\site-packages\urllib3\connectionpool.py", line 667, in urlopen
+    **response_kw)
+  File "C:\Users\user\Envs\my_test\lib\site-packages\urllib3\connectionpool.py", line 667, in urlopen
+    **response_kw)
+  File "C:\Users\user\Envs\my_test\lib\site-packages\urllib3\connectionpool.py", line 638, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "C:\Users\user\Envs\my_test\lib\site-packages\urllib3\util\retry.py", line 398, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=64362): Max retries exceeded with url: /session/ccce1c57-5ff9-4f0c-a7d7-31192d805bcd (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001FE7A237828>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2019-05-07 13:58:09,501 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 13:58:10,029 - INFO - server1.py - abc_bank - 166 - [ 返回图片验证码用时:11.302944421768188 ]
+2019-05-07 13:58:16,278 - ERROR - server1.py - del_timeout_user - 57 - [ error 监控模块异常 'abc|15295240290']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 39, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|15295240290'
+2019-05-07 13:58:16,278 - INFO - server1.py - del_timeout_user - 58 - [ cache:{'abc|17095118656': (<abc_bank.Abc_bank object at 0x000001FE7A225E80>, 1557208687.319925)}  cache_list:[{'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x000001FE7B62EB70>, 't1': 1557208651.8960361, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x000001FE7A225E80>, 't1': 1557208687.319925, 'ip': '127.0.0.1'}] ]
+2019-05-07 13:58:31,279 - ERROR - server1.py - del_timeout_user - 57 - [ error 监控模块异常 'abc|15295240290']
+Traceback (most recent call last):
+  File "D:/py-project/abc_bank/server1.py", line 39, in del_timeout_user
+    if cache[data['k']][0] == data['g']:
+KeyError: 'abc|15295240290'
+2019-05-07 13:58:31,280 - INFO - server1.py - del_timeout_user - 58 - [ cache:{'abc|17095118656': (<abc_bank.Abc_bank object at 0x000001FE7A225E80>, 1557208687.319925)}  cache_list:[{'bank_name': 'abc', 'user': '15295240290', 'k': 'abc|15295240290', 'g': <abc_bank.Abc_bank object at 0x000001FE7B62EB70>, 't1': 1557208651.8960361, 'ip': '127.0.0.1'}, {'bank_name': 'abc', 'user': '17095118656', 'k': 'abc|17095118656', 'g': <abc_bank.Abc_bank object at 0x000001FE7A225E80>, 't1': 1557208687.319925, 'ip': '127.0.0.1'}] ]
+2019-05-07 13:59:37,880 - INFO - server1.py - <module> - 11 - [ abc_bank 服务已启动 ]
+2019-05-07 13:59:37,882 - INFO - server1.py - del_timeout_user - 32 - [ 监控异常登陆线程 <Thread(Thread-1, started 15720)> start ]
+2019-05-07 13:59:45,968 - INFO - server1.py - abc_bank - 98 - [ abc {'username': '17095118656', 'password': '10221408', 'messagecode': '', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 13:59:45,968 - INFO - server1.py - abc_bank - 157 - ['用户: 17095118656  IP 地址: 127.0.0.1']
+2019-05-07 13:59:45,968 - INFO - server1.py - abc_bank - 158 - ['User-Agent: PostmanRuntime/7.11.0']
+2019-05-07 13:59:53,546 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 13:59:54,108 - INFO - server1.py - abc_bank - 166 - [ 返回图片验证码用时:8.13922929763794 ]
+2019-05-07 13:59:56,107 - INFO - server1.py - abc_bank - 98 - [ abc {'username': '17095118656', 'password': '10221408', 'messagecode': '', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 13:59:56,107 - INFO - server1.py - abc_bank - 157 - ['用户: 17095118656  IP 地址: 127.0.0.1']
+2019-05-07 13:59:56,107 - INFO - server1.py - abc_bank - 158 - ['User-Agent: PostmanRuntime/7.11.0']
+2019-05-07 14:00:02,953 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 14:00:03,470 - INFO - server1.py - abc_bank - 166 - [ 返回图片验证码用时:7.362420320510864 ]
+2019-05-07 14:00:06,170 - INFO - server1.py - abc_bank - 98 - [ abc {'username': '17095118656', 'password': '10221408', 'messagecode': '', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 14:00:06,170 - INFO - server1.py - abc_bank - 157 - ['用户: 17095118656  IP 地址: 127.0.0.1']
+2019-05-07 14:00:06,170 - INFO - server1.py - abc_bank - 158 - ['User-Agent: PostmanRuntime/7.11.0']
+2019-05-07 14:00:14,407 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 14:00:14,958 - INFO - server1.py - abc_bank - 166 - [ 返回图片验证码用时:8.787553071975708 ]
+2019-05-07 14:03:37,921 - INFO - server1.py - <module> - 11 - [ abc_bank 服务已启动 ]
+2019-05-07 14:03:37,923 - INFO - server1.py - del_timeout_user - 32 - [ 监控异常登陆线程 <Thread(Thread-1, started 19068)> start ]
+2019-05-07 14:03:46,121 - INFO - server1.py - abc_bank - 98 - [ abc {'username': '17095118656', 'password': '10221408', 'messagecode': '', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 14:03:46,122 - INFO - server1.py - abc_bank - 157 - ['用户: 17095118656  IP 地址: 127.0.0.1']
+2019-05-07 14:03:46,122 - INFO - server1.py - abc_bank - 158 - ['User-Agent: PostmanRuntime/7.11.0']
+2019-05-07 14:03:53,828 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 14:03:54,404 - INFO - server1.py - abc_bank - 166 - [ 返回图片验证码用时:8.283172130584717 ]
+2019-05-07 14:03:55,821 - INFO - server1.py - abc_bank - 98 - [ abc {'username': '17095118656', 'password': '10221408', 'messagecode': '', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 14:03:55,822 - INFO - server1.py - abc_bank - 157 - ['用户: 17095118656  IP 地址: 127.0.0.1']
+2019-05-07 14:03:55,822 - INFO - server1.py - abc_bank - 158 - ['User-Agent: PostmanRuntime/7.11.0']
+2019-05-07 14:04:02,481 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 14:04:03,215 - INFO - server1.py - abc_bank - 166 - [ 返回图片验证码用时:7.394049644470215 ]
+2019-05-07 14:04:04,608 - INFO - server1.py - abc_bank - 98 - [ abc {'username': '17095118656', 'password': '10221408', 'messagecode': '', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 14:04:04,609 - INFO - server1.py - abc_bank - 157 - ['用户: 17095118656  IP 地址: 127.0.0.1']
+2019-05-07 14:04:04,609 - INFO - server1.py - abc_bank - 158 - ['User-Agent: PostmanRuntime/7.11.0']
+2019-05-07 14:04:11,487 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 14:04:12,062 - INFO - server1.py - abc_bank - 166 - [ 返回图片验证码用时:7.454336404800415 ]
+2019-05-07 14:04:13,854 - INFO - server1.py - abc_bank - 98 - [ abc {'username': '17095118656', 'password': '10221408', 'messagecode': '', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 14:04:13,855 - INFO - server1.py - abc_bank - 157 - ['用户: 17095118656  IP 地址: 127.0.0.1']
+2019-05-07 14:04:13,855 - INFO - server1.py - abc_bank - 158 - ['User-Agent: PostmanRuntime/7.11.0']
+2019-05-07 14:04:20,637 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 14:04:21,289 - INFO - server1.py - abc_bank - 166 - [ 返回图片验证码用时:7.434288024902344 ]
+2019-05-07 14:05:02,168 - INFO - server1.py - del_timeout_user - 44 - [ 用户: 17095118656 'ip: 127.0.0.1' 长时间未操作，已主动关闭浏览器，清空服务器 user,time 数据]
+2019-05-07 14:06:49,683 - INFO - server1.py - <module> - 11 - [ abc_bank 服务已启动 ]
+2019-05-07 14:06:49,684 - INFO - server1.py - del_timeout_user - 32 - [ 监控异常登陆线程 <Thread(Thread-1, started 13632)> start ]
+2019-05-07 14:07:02,186 - INFO - server1.py - abc_bank - 100 - [ abc {'username': '17095118656', 'password': '10221408', 'messagecode': '', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 14:07:02,187 - INFO - server1.py - abc_bank - 159 - ['用户: 17095118656  IP 地址: 127.0.0.1']
+2019-05-07 14:07:02,187 - INFO - server1.py - abc_bank - 160 - ['User-Agent: PostmanRuntime/7.11.0']
+2019-05-07 14:07:09,993 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 14:07:10,568 - INFO - server1.py - abc_bank - 168 - [ 返回图片验证码用时:8.381579875946045 ]
+2019-05-07 14:07:11,974 - INFO - server1.py - abc_bank - 100 - [ abc {'username': '17095118656', 'password': '10221408', 'messagecode': '', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 14:07:11,975 - INFO - server1.py - abc_bank - 159 - ['用户: 17095118656  IP 地址: 127.0.0.1']
+2019-05-07 14:07:11,975 - INFO - server1.py - abc_bank - 160 - ['User-Agent: PostmanRuntime/7.11.0']
+2019-05-07 14:07:18,591 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 14:07:19,105 - INFO - server1.py - abc_bank - 168 - [ 返回图片验证码用时:7.130790710449219 ]
+2019-05-07 14:07:21,093 - INFO - server1.py - abc_bank - 100 - [ abc {'username': '17095118656', 'password': '10221408', 'messagecode': '', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 14:07:21,093 - INFO - server1.py - abc_bank - 159 - ['用户: 17095118656  IP 地址: 127.0.0.1']
+2019-05-07 14:07:21,093 - INFO - server1.py - abc_bank - 160 - ['User-Agent: PostmanRuntime/7.11.0']
+2019-05-07 14:07:28,158 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 14:07:29,195 - INFO - server1.py - abc_bank - 168 - [ 返回图片验证码用时:8.103324890136719 ]
+2019-05-07 14:08:00,893 - INFO - server1.py - del_timeout_user - 45 - [ 用户: 17095118656 'ip: 127.0.0.1' 长时间未操作，已主动关闭浏览器，清空服务器 user,time 数据]
+2019-05-07 14:08:31,525 - INFO - server1.py - abc_bank - 100 - [ abc {'username': '15295240290', 'password': 'zy120928', 'messagecode': '', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 14:08:31,525 - INFO - server1.py - abc_bank - 159 - ['用户: 15295240290  IP 地址: 127.0.0.1']
+2019-05-07 14:08:31,525 - INFO - server1.py - abc_bank - 160 - ['User-Agent: PostmanRuntime/7.11.0']
+2019-05-07 14:08:39,057 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 14:08:39,572 - INFO - server1.py - abc_bank - 168 - [ 返回图片验证码用时:8.046984434127808 ]
+2019-05-07 14:08:40,856 - INFO - server1.py - abc_bank - 100 - [ abc {'username': '15295240290', 'password': 'zy120928', 'messagecode': '', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 14:08:40,856 - INFO - server1.py - abc_bank - 159 - ['用户: 15295240290  IP 地址: 127.0.0.1']
+2019-05-07 14:08:40,856 - INFO - server1.py - abc_bank - 160 - ['User-Agent: PostmanRuntime/7.11.0']
+2019-05-07 14:08:47,604 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 14:08:48,133 - INFO - server1.py - abc_bank - 168 - [ 返回图片验证码用时:7.27686619758606 ]
+2019-05-07 14:09:17,110 - INFO - server1.py - del_timeout_user - 45 - [ 用户: 15295240290 'ip: 127.0.0.1' 长时间未操作，已主动关闭浏览器，清空服务器 user,time 数据]
+2019-05-07 14:10:29,203 - INFO - server1.py - <module> - 11 - [ abc_bank 服务已启动 ]
+2019-05-07 14:10:29,204 - INFO - server1.py - del_timeout_user - 32 - [ 监控异常登陆线程 <Thread(Thread-1, started 15044)> start ]
+2019-05-07 14:10:33,576 - INFO - server1.py - abc_bank - 100 - [ abc {'username': '15295240290', 'password': 'zy120928', 'messagecode': '', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 14:10:33,576 - INFO - server1.py - abc_bank - 159 - ['用户: 15295240290  IP 地址: 127.0.0.1']
+2019-05-07 14:10:33,577 - INFO - server1.py - abc_bank - 160 - ['User-Agent: PostmanRuntime/7.11.0']
+2019-05-07 14:10:41,398 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 14:10:41,970 - INFO - server1.py - abc_bank - 168 - [ 返回图片验证码用时:8.393539667129517 ]
+2019-05-07 14:11:09,345 - INFO - server1.py - del_timeout_user - 45 - [ 用户: 15295240290 'ip: 127.0.0.1' 长时间未操作，已主动关闭浏览器，清空服务器 user,time 数据]
+2019-05-07 14:12:17,984 - INFO - server1.py - <module> - 11 - [ abc_bank 服务已启动 ]
+2019-05-07 14:12:17,985 - INFO - server1.py - del_timeout_user - 32 - [ 监控异常登陆线程 <Thread(Thread-1, started 5648)> start ]
+2019-05-07 17:52:50,149 - INFO - server1.py - <module> - 11 - [ abc_bank 服务已启动 ]
+2019-05-07 17:52:50,151 - INFO - server1.py - del_timeout_user - 32 - [ 监控异常登陆线程 <Thread(Thread-1, started 11380)> start ]
+2019-05-07 17:53:01,747 - INFO - server1.py - abc_bank - 100 - [ abc {'username': '15295240290', 'password': 'zy120928', 'messagecode': '', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 17:53:01,748 - INFO - server1.py - abc_bank - 159 - ['用户: 15295240290  IP 地址: 127.0.0.1']
+2019-05-07 17:53:01,748 - INFO - server1.py - abc_bank - 160 - ['User-Agent: PostmanRuntime/7.11.0']
+2019-05-07 17:53:09,672 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 17:53:10,459 - INFO - server1.py - abc_bank - 168 - [ 返回图片验证码用时:8.712203979492188 ]
+2019-05-07 17:53:11,680 - INFO - server1.py - abc_bank - 100 - [ abc {'username': '15295240290', 'password': 'zy120928', 'messagecode': '', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 17:53:11,681 - INFO - server1.py - abc_bank - 159 - ['用户: 15295240290  IP 地址: 127.0.0.1']
+2019-05-07 17:53:11,681 - INFO - server1.py - abc_bank - 160 - ['User-Agent: PostmanRuntime/7.11.0']
+2019-05-07 17:53:18,314 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 17:53:18,843 - INFO - server1.py - abc_bank - 168 - [ 返回图片验证码用时:7.162962913513184 ]
+2019-05-07 17:53:35,748 - INFO - server1.py - abc_bank - 100 - [ abc {'username': '1529524029', 'password': 'zy120928', 'messagecode': 'iqbr', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 17:54:14,156 - INFO - server1.py - abc_bank - 100 - [ abc {'username': '15295240290', 'password': 'zy120928', 'messagecode': 'iqbr', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 17:54:14,156 - INFO - abc_bank.py - login - 104 - [ 开始登陆 ]
+2019-05-07 17:54:29,475 - INFO - abc_bank.py - data_db - 243 - [ 开始提取数据 ]
+2019-05-07 17:54:35,788 - INFO - abc_bank.py - get_person_info - 558 - [ 获取个人详情页信息 ]
+2019-05-07 17:54:35,807 - INFO - abc_bank.py - card_info - 490 - [ 获取当月账单信息 ]
+2019-05-07 17:54:42,906 - INFO - abc_bank.py - get_detail_bill - 381 - [ 获取半年月账单信息 ]
+2019-05-07 17:55:20,665 - INFO - server1.py - abc_bank - 147 - [ 返回数据用时:66.50854086875916 {'code': '10000', 'creditCardInfo': {'bankCode': 'ABC', 'bankName': '农业银行', 'login_account': '15295240290', 'bill_date': '2019-05-08', 'current_bill_remain_amt': 0.0, 'id_card': '321283**********52', 'bill_address': -1, 'crawl_user_phone': '152*****290', 'card_no': '6259960185602984', 'balance': 6000.0, 'name': '赵洋', 'credit_limit': 6000.0, 'cash_balance': 3000.0, 'payment_due_date': '2019-05-08', 'complement_card_no': '6259960185602984', 'login_account_type': '2', 'reckoningSurveyNot': [{'enterBillNot': [], 'enterBill': []}], 'reckoningSurvey': [{'month': '2019-04', 'month_bill_date': '2019-04-13', 'month_payment_due_date': '2019-05-08', 'month_new_balance': 40.0, 'month_bill_amt': 40.0, 'month_min_payment': 5.0, 'details': [{'billingDate': '2019-03-30', 'transactionDate': '2019-03-30', 'rmb_amount': '-40.00', 'description': 'ETC通行费'}]}, {'month': '2019-03', 'month_bill_date': '2019-03-13', 'month_payment_due_date': '2019-04-07', 'month_new_balance': 0.0, 'month_bill_amt': 0.0, 'month_min_payment': 0.0, 'details': [{'billingDate': '2019-03-09', 'transactionDate': '2019-03-09', 'rmb_amount': '4689.00', 'description': '卡卡转账'}]}, {'month': '2019-02', 'month_bill_date': '2019-02-13', 'month_payment_due_date': '2019-03-10', 'month_new_balance': 4689.0, 'month_bill_amt': 4689.0, 'month_min_payment': 468.9, 'details': [{'billingDate': '2019-01-17', 'transactionDate': '2019-01-17', 'rmb_amount': '-4689.00', 'description': '跨行消费'}]}, {'month': '2019-01', 'month_bill_date': '2019-01-13', 'month_payment_due_date': '2019-02-07', 'month_new_balance': 0.0, 'month_bill_amt': 0.0, 'month_min_payment': 0.0, 'details': [{'billingDate': '2018-12-20', 'transactionDate': '2018-12-20', 'rmb_amount': '85.00', 'description': '卡卡转账'}]}, {'month': '2018-12', 'month_bill_date': '2018-12-13', 'month_payment_due_date': '2019-01-07', 'month_new_balance': 85.0, 'month_bill_amt': 85.0, 'month_min_payment': 8.5, 'details': [{'billingDate': '2018-12-05', 'transactionDate': '2018-12-05', 'rmb_amount': '180.00', 'description': '卡卡转账'}, {'billingDate': '2018-12-08', 'transactionDate': '2018-12-08', 'rmb_amount': '-15.00', 'description': 'ETC通行费'}, {'billingDate': '2018-12-08', 'transactionDate': '2018-12-08', 'rmb_amount': '-30.00', 'description': 'ETC通行费'}, {'billingDate': '2018-12-09', 'transactionDate': '2018-12-09', 'rmb_amount': '-40.00', 'description': 'ETC通行费'}]}, {'month': '2018-11', 'month_bill_date': '2018-11-13', 'month_payment_due_date': '2018-12-08', 'month_new_balance': 180.0, 'month_bill_amt': 180.0, 'month_min_payment': 18.0, 'details': [{'billingDate': '2018-11-02', 'transactionDate': '2018-11-02', 'rmb_amount': '-100.00', 'description': '网上消费'}, {'billingDate': '2018-11-03', 'transactionDate': '2018-11-03', 'rmb_amount': '-40.00', 'description': 'ETC通行费'}, {'billingDate': '2018-11-04', 'transactionDate': '2018-11-04', 'rmb_amount': '-40.00', 'description': 'ETC通行费'}]}], 'enterBill': [], 'enterBillNot': []}, 'submitTime': 1557222917, 'updTime': None} ]
+2019-05-07 18:07:35,463 - INFO - server1.py - <module> - 11 - [ abc_bank 服务已启动 ]
+2019-05-07 18:07:35,466 - INFO - server1.py - del_timeout_user - 32 - [ 监控异常登陆线程 <Thread(Thread-1, started 19292)> start ]
+2019-05-07 18:07:43,328 - INFO - server1.py - abc_bank - 100 - [ abc {'username': '15295240290', 'password': 'zy120928', 'messagecode': '', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 18:07:43,329 - INFO - server1.py - abc_bank - 159 - ['用户: 15295240290  IP 地址: 127.0.0.1']
+2019-05-07 18:07:43,329 - INFO - server1.py - abc_bank - 160 - ['User-Agent: PostmanRuntime/7.11.0']
+2019-05-07 18:07:51,068 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 18:07:51,610 - INFO - server1.py - abc_bank - 168 - [ 返回图片验证码用时:8.28184700012207 ]
+2019-05-07 18:07:58,744 - INFO - server1.py - abc_bank - 100 - [ abc {'username': '15295240290', 'password': 'zy120928', 'messagecode': 'hvbv', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 18:07:58,745 - INFO - abc_bank.py - login - 104 - [ 开始登陆 ]
+2019-05-07 18:08:13,826 - INFO - abc_bank.py - data_db - 243 - [ 开始提取数据 ]
+2019-05-07 18:08:20,142 - INFO - abc_bank.py - get_person_info - 561 - [ 获取个人详情页信息 ]
+2019-05-07 18:08:20,161 - INFO - abc_bank.py - card_info - 493 - [ 获取当月账单信息 ]
+2019-05-07 18:08:27,077 - INFO - abc_bank.py - get_detail_bill - 381 - [ 获取半年月账单信息 ]
+2019-05-07 18:09:04,008 - INFO - server1.py - abc_bank - 147 - [ 返回数据用时:65.26456236839294 {'code': '10000', 'creditCardInfo': {'bankCode': 'ABC', 'bankName': '农业银行', 'login_account': '15295240290', 'bill_date': '2019-05-08', 'current_bill_remain_amt': 0.0, 'id_card': '321283**********52', 'bill_address': -1, 'crawl_user_phone': '152*****290', 'card_no': '6259960185602984', 'balance': 6000.0, 'name': '赵洋', 'credit_limit': 6000.0, 'cash_balance': 3000.0, 'payment_due_date': '2019-05-08', 'complement_card_no': '6259960185602984', 'login_account_type': '2', 'reckoningSurveyNot': [{'enterBillNot': [], 'enterBill': []}], 'reckoningSurvey': [{'month': '2019-04', 'month_bill_date': '2019-04-13', 'month_payment_due_date': '2019-05-08', 'month_new_balance': 40.0, 'month_bill_amt': 40.0, 'month_min_payment': 5.0, 'details': [{'billingDate': '2019-03-30', 'transactionDate': '2019-03-30', 'rmb_amount': '-40.00', 'description': 'ETC通行费'}]}, {'month': '2019-03', 'month_bill_date': '2019-03-13', 'month_payment_due_date': '2019-04-07', 'month_new_balance': 0.0, 'month_bill_amt': 0.0, 'month_min_payment': 0.0, 'details': [{'billingDate': '2019-03-09', 'transactionDate': '2019-03-09', 'rmb_amount': '4689.00', 'description': '卡卡转账'}]}, {'month': '2019-02', 'month_bill_date': '2019-02-13', 'month_payment_due_date': '2019-03-10', 'month_new_balance': 4689.0, 'month_bill_amt': 4689.0, 'month_min_payment': 468.9, 'details': [{'billingDate': '2019-01-17', 'transactionDate': '2019-01-17', 'rmb_amount': '-4689.00', 'description': '跨行消费'}]}, {'month': '2019-01', 'month_bill_date': '2019-01-13', 'month_payment_due_date': '2019-02-07', 'month_new_balance': 0.0, 'month_bill_amt': 0.0, 'month_min_payment': 0.0, 'details': [{'billingDate': '2018-12-20', 'transactionDate': '2018-12-20', 'rmb_amount': '85.00', 'description': '卡卡转账'}]}, {'month': '2018-12', 'month_bill_date': '2018-12-13', 'month_payment_due_date': '2019-01-07', 'month_new_balance': 85.0, 'month_bill_amt': 85.0, 'month_min_payment': 8.5, 'details': [{'billingDate': '2018-12-05', 'transactionDate': '2018-12-05', 'rmb_amount': '180.00', 'description': '卡卡转账'}, {'billingDate': '2018-12-08', 'transactionDate': '2018-12-08', 'rmb_amount': '-15.00', 'description': 'ETC通行费'}, {'billingDate': '2018-12-08', 'transactionDate': '2018-12-08', 'rmb_amount': '-30.00', 'description': 'ETC通行费'}, {'billingDate': '2018-12-09', 'transactionDate': '2018-12-09', 'rmb_amount': '-40.00', 'description': 'ETC通行费'}]}, {'month': '2018-11', 'month_bill_date': '2018-11-13', 'month_payment_due_date': '2018-12-08', 'month_new_balance': 180.0, 'month_bill_amt': 180.0, 'month_min_payment': 18.0, 'details': [{'billingDate': '2018-11-02', 'transactionDate': '2018-11-02', 'rmb_amount': '-100.00', 'description': '网上消费'}, {'billingDate': '2018-11-03', 'transactionDate': '2018-11-03', 'rmb_amount': '-40.00', 'description': 'ETC通行费'}, {'billingDate': '2018-11-04', 'transactionDate': '2018-11-04', 'rmb_amount': '-40.00', 'description': 'ETC通行费'}]}], 'enterBill': [], 'enterBillNot': []}, 'submitTime': 1557223740, 'updTime': None} ]
+2019-05-07 18:09:51,472 - INFO - server1.py - <module> - 11 - [ abc_bank 服务已启动 ]
+2019-05-07 18:09:51,474 - INFO - server1.py - del_timeout_user - 32 - [ 监控异常登陆线程 <Thread(Thread-1, started 17360)> start ]
+2019-05-07 18:09:55,483 - INFO - server1.py - abc_bank - 100 - [ abc {'username': '17095118656', 'password': '10221408', 'messagecode': '', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 18:09:55,483 - INFO - server1.py - abc_bank - 159 - ['用户: 17095118656  IP 地址: 127.0.0.1']
+2019-05-07 18:09:55,483 - INFO - server1.py - abc_bank - 160 - ['User-Agent: PostmanRuntime/7.11.0']
+2019-05-07 18:10:03,278 - INFO - abc_bank.py - get_verify_img - 50 - [ 获取验证码截图 ]
+2019-05-07 18:10:03,897 - INFO - server1.py - abc_bank - 168 - [ 返回图片验证码用时:8.41349458694458 ]
+2019-05-07 18:10:10,531 - INFO - server1.py - abc_bank - 100 - [ abc {'username': '17095118656', 'password': '10221408', 'messagecode': 'kzbc', 'messagecode_again': '', 'smscode': '', 'proxy': ''} ]
+2019-05-07 18:10:10,531 - INFO - abc_bank.py - login - 104 - [ 开始登陆 ]
+2019-05-07 18:10:25,620 - INFO - abc_bank.py - data_db - 243 - [ 开始提取数据 ]
+2019-05-07 18:10:31,859 - INFO - abc_bank.py - get_person_info - 562 - [ 获取个人详情页信息 ]
+2019-05-07 18:10:31,880 - INFO - abc_bank.py - card_info - 494 - [ 获取当月账单信息 ]
+2019-05-07 18:10:38,751 - INFO - abc_bank.py - get_detail_bill - 381 - [ 获取半年月账单信息 ]
+2019-05-07 18:11:19,491 - INFO - server1.py - abc_bank - 147 - [ 返回数据用时:68.96085572242737 {'code': '10000', 'creditCardInfo': {'bankCode': 'ABC', 'bankName': '农业银行', 'login_account': '17095118656', 'bill_date': '2019-05-02', 'current_bill_remain_amt': 0.0, 'id_card': '342901**********22', 'bill_address': -1, 'crawl_user_phone': '170*****656', 'card_no': '6253360027282333', 'balance': 2000.5, 'name': '巩丹丹', 'credit_limit': 2000.0, 'cash_balance': 1000.5, 'payment_due_date': '2019-05-02', 'complement_card_no': '6253360027282333', 'login_account_type': '2', 'reckoningSurveyNot': [{'enterBillNot': [], 'enterBill': []}], 'reckoningSurvey': [{'month': '2019-02', 'month_bill_date': '2019-02-07', 'month_payment_due_date': '2019-03-04', 'month_new_balance': 0.0, 'month_bill_amt': 0.0, 'month_min_payment': 0.0, 'details': [{'billingDate': '2019-01-18', 'transactionDate': '2019-01-18', 'rmb_amount': '160.00', 'description': '信用卡还款'}]}, {'month': '2019-01', 'month_bill_date': '2019-01-07', 'month_payment_due_date': '2019-02-01', 'month_new_balance': 160.0, 'month_bill_amt': 159.5, 'month_min_payment': 159.5, 'details': [{'billingDate': '2018-12-23', 'transactionDate': '2018-12-23', 'rmb_amount': '-160.00', 'description': '年费'}]}], 'enterBill': [], 'enterBillNot': []}, 'submitTime': 1557223876, 'updTime': None} ]
